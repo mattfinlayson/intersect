@@ -2,6 +2,9 @@
 title: Performance Reviews
 ---
 
+
+To Categorize:
+
 https://tynan.com/shapes/
 
 https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/

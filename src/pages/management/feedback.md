@@ -2,7 +2,6 @@
 title: Feedback & Reviews
 ---
 
-
 To Categorize:
 
 Feedback:
@@ -13,6 +12,7 @@ Feedback:
 * [13 questions to get more feedback from your team](https://marcusblankenship.com/13-questions-to-get-more-feedback-from-your-team/)
 * [3-2-1-Oh](https://andrewspittle.com/2016/02/23/a-note-on-feedback/)
 * [HOW TO GET HELPFUL, ACTIONABLE FEEDBACK FROM YOUR COLLEAGUES](https://larahogan.me/blog/get-feedback-from-colleagues/)
+* [A People Leader’s Guide to Active Listening](https://buffer.com/resources/active-listening/)
 
 
 Reviews:

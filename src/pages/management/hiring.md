@@ -22,3 +22,4 @@ Responses to behavioral questions should be specific and structured. When asked 
 * [Interview Guide](https://careerdevelopment.princeton.edu/sites/g/files/toruqf1041/files/documents/interview_guide_5.pdf)
 * [How MailChimp Does Recruiting](https://mailchimp.com/culture/how-mailchimp-does-recruiting/)
 * [Example spreadsheet for compensation calibration](https://docs.google.com/spreadsheets/d/1y2MAqK8XRUboycqcjqWYQZZmtirkxHE6kP_rsmDg-kM/htmlview#)
+* [Some common hiring manager mistakes.](https://lethain.com/common-hiring-manager-mistakes/)
