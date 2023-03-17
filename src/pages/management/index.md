@@ -82,3 +82,55 @@ https://www.jeli.io/
 - https://komoroske.com/slime-mold/
 
 - https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee
+
+
+
+[Playbook for Running Sprints](https://nemethgergely.com/blog/playbook-for-running-sprints)
+
+[Attention as a Software Developer ](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
+
+[habits with seasonality](http://www.martymatheny.com/blog/2020/10/2/10-habits-that-help-me-as-a-manager)
+
+[engineering strategy](https://lethain.com/engineering-strategy/)
+
+[acute vs chronic issues](https://medium.com/@johnpcutler/acute-vs-chronic-product-issues-a4aa6a4e606)
+
+
+
+# Metrics to game
+
+
+This is one of those it depends questions where the answer is entirely dependent on the engineering team and the behavior you are trying to incentivize. Two things to remember:
+
+1) Engineers will attempt to game all metrics. The classic blunder is to measure number of check-ins. Of course, of course, this means that engineers are going to do MORE CHECK-INS and while this is a measure of productivity for some subset of engineers, it’s TOTALLY THE WRONG MEASURE for a whole slew of others. This leads me to the second point:
+
+2) Think long and hard about what behavior you are looking to incentivize. Another bad behavior metric: mean time to resolve (MTTR). While this is a must watch metric, it’s not a metric you should incentivize against because folks are going to PANIC ABOUT GETTING THE SERVICE UP rather than calmly getting the service up. (edited)
+
+I gamified test coverage at Etsy because it focused our engineers in the direction that mattered
+
+
+# Nurture Ideas
+
+
+What I have learnt is that you can get people to share ideas that they have by asking the right questions. Questions that I frequently ask, when we have a problem at hand, are:
+
+    What do you suggest we do?
+    What do you think are some ways we can solve it?
+    Do you think there is a case where the solution will fail?
+
+Ask these questions, and then pause. Give them time to think. More than that, let silence encourage the other person to speak. 
+
+https://hackernoon.com/how-i-stopped-being-awful-at-managing-leadership-lessons-from-a-dev-d1bfebcb3a21
+
+
+# Dashboards
+
+For me dashboards need to be all of visible, actionable, and used:
+ - visible — if you have to go visit a dashboard it’s not a dashboard - the entire point is that it’s something that should be in front of you a lot. That’s not to say visualisations that aren’t always visible are not useful — they’re just not dashboards.
+ - actionable — folk can do something with what they’re telling you. Going to fast - so slow down. Below expected target for warm leads - need to invest more effort in sales. etc.
+ - used — there’s a culture of actually taking action based on the dashboards. The OKR board is visited in the retros. Folk address the bottleneck in testing that the bursty CFD shows, etc.
+
+If any one of those things is absent - the utility of the dashboard disappears.
+ - if it’s not visible then folk don’t notice when Important Thing changes.
+ - if it’s not actionable then folk can’t do anything when Important Thing changes.
+ - if it’s not used then folk don’t care if Important Thing changes.
