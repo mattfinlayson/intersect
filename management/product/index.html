@@ -49,7 +49,7 @@
 		"url": "/management/",
 		"title": "Engineering Management",
 		"topLevel": true,
-		"text": "title engineering management techniquestechnical debt  board meetingslessons from keith rabois essay 4 how to run an effective board meeting and make an effective board deckhow to write investor updates kpis 11 announcement engineering engineering succes gitlab engineering kpis gitlab about kpis engineering kpis remote workvirtual activitiesremote code reviews10 best practices for remote development coordination headwind ",
+		"text": "title engineering management techniquestechnical debt  board meetingslessons from keith rabois essay 4 how to run an effective board meeting and make an effective board deckhow to write investor updates kpis 11 announcement engineering engineering succes gitlab engineering kpis gitlab about kpis engineering kpis remote workvirtual activitiesremote code reviews10 best practices for remote development coordination headwind playbook for running sprintsattention as a software developer habits with seasonalityengineering strategyacute vs chronic issues metrics to gamethis is one of those it depends questions where the answer is entirely dependent on the engineering team and the behavior you are trying to incentivize two things to remember1 engineers will attempt to game all metrics the classic blunder is to measure number of checkins of course of course this means that engineers are going to do more checkins and while this is a measure of productivity for some subset of engineers its totally the wrong measure for a whole slew of others this leads me to the second point2 think long and hard about what behavior you are looking to incentivize another bad behavior metric mean time to resolve mttr while this is a must watch metric its not a metric you should incentivize against because folks are going to panic about getting the service up rather than calmly getting the service up editedi gamified test coverage at etsy because it focused our engineers in the direction that mattered nurture ideaswhat i have learnt is that you can get people to share ideas that they have by asking the right questions questions that i frequently ask when we have a problem at hand are what do you suggest we do what do you think are some ways we can solve it do you think there is a case where the solution will failask these questions and then pause give them time to think more than that let silence encourage the other person to speak  dashboardsfor me dashboards need to be all of visible actionable and used visible if you have to go visit a dashboard its not a dashboard the entire point is that its something that should be in front of you a lot thats not to say visualisations that arent always visible are not useful theyre just not dashboards actionable folk can do something with what theyre telling you going to fast so slow down below expected target for warm leads need to invest more effort in sales etc used theres a culture of actually taking action based on the dashboards the okr board is visited in the retros folk address the bottleneck in testing that the bursty cfd shows etcif any one of those things is absent the utility of the dashboard disappears if its not visible then folk dont notice when important thing changes if its not actionable then folk cant do anything when important thing changes if its not used then folk dont care if important thing changes",
 		"parents": [],
 		"filePath": "/src/pages/management/index.md"
 	},{
@@ -148,15 +148,95 @@
 		"url": "/management/performance_reviews/",
 		"title": "Performance Reviews",
 		"topLevel": false,
-		"text": "title performance reviewsto categorizeplaybook for running sprintsattention as a software developer habits with seasonalityengineering strategyacute vs chronic issues",
+		"text": "title performance reviewsto categorize what shape are you performance reviews for software developers  how i do them in a hopefully fair way how to discuss poor performance with an employee 14 questions to ask an underperforming employee during a oneonone meeting software engineering promotions advice to get to that next level",
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/performance_reviews.md"
 	},{
+		"url": "/management/processes/",
+		"title": "processes",
+		"topLevel": false,
+		"text": "title processes",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/processes/index.md"
+	},{
+		"url": "/management/processes/agile/",
+		"title": "agile",
+		"topLevel": false,
+		"text": "title agile to categorize how 5 minutes of preparation can finally make standup meetings productive         ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/agile.md"
+	},{
+		"url": "/management/processes/code_reviews/",
+		"title": "code reviews",
+		"topLevel": false,
+		"text": "title code reviews to categorize reviewing pull requests how to make good code reviews better the powerful ritual of daily design reviews       ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/code_reviews.md"
+	},{
+		"url": "/management/processes/decision_making/",
+		"title": "decision making",
+		"topLevel": false,
+		"text": "title decision making to categorize no kings how do you make good decisions efficiently in a flat organization how we make decisions at coinbase selecting a cloud provider",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/decision_making.md"
+	},{
+		"url": "/management/processes/goal_setting/",
+		"title": "goal setting",
+		"topLevel": false,
+		"text": "title goal settingoperations pi si alert count spend vs planned spend downtime planned maintenance unit cost for new features shipped this quarter unit cost per headplanned schedule shipped late missed time to close ticketsorg health average time to fill a req growth vs planned growth headcount vs planned headcount expected attrition vs actual attrition cogs breakdown of eng investment revenue success tams to categorize the difference between goals strategies metrics okrs kpis and kris the art of the okr how to write a good software design doc scaling engineering teams via writing things down and sharing aka rfcs leveling up your organization with system reviews dont get locked up into avoiding lockin run less software   ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/goal_setting.md"
+	},{
+		"url": "/management/processes/incident_review/",
+		"title": "incident review",
+		"topLevel": false,
+		"text": "title incident reviewproduction incidentfrom google sre book it is better to declare an incident early and then find a simple fix and close out the incident than to have to spin up the incident management framework hours into a burgeoning problem set clear conditions for declaring an incident my team follows these broad guidelinesif any of the following is true the event is an incident do you need to involve a second team in fixing the problem is the outage visible to customers is the issue unsolved even after an hours concentrated analysisincident management proficiency atrophies quickly when its not in constant use so how can engineers keep their incident management skills up to datehandle more incidents fortunately the incident management framework can apply to other operational changes that need to span time zones andor teams if you use the framework frequently as a regular part of your change management procedures you can easily follow this framework when an actual incident occurs if your organization performs disasterrecovery testing you should its fun see kri12 incident management should be part of that testing process we often roleplay the response to an oncall issue that has already been solved perhaps by colleagues in another location to further familiarize ourselves with incident management severities saas from vmwarecritical saas severity 1 critical production issue that severely impacts your use of the service the situation halts your business operations and no procedural workaround exists service is down or unavailable data corrupted or lost and must restore from backup a critical documented feature  function is not availableseverity 1 issues require the customer to have dedicated resources available to work on the issue on an ongoing basis with vmwaremajor saas severity 2 major functionality is impacted or significant performance degradation is experienced the situation is causing a high impact to portions of your business operations and no reasonable workaround exists service is operational but highly degraded performance to the point of major impact on usage important features of the software as a service offering are unavailable with no acceptable workaround however operations can continue in a restricted fashionminor saas severity 3 there is a partial noncritical loss of use of the service with a mediumtolow impact on your business but your business continues to function shortterm workaround is available but not scalablecosmetic saas severity 4 inquiry regarding a routine technical issue information requested on application capabilities navigation installation or configuration bug affecting a small number of users acceptable workaround availablesoftware as a service support policiesto categorize collaboration in postincident review    ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/incident_review.md"
+	},{
+		"url": "/management/processes/monitoring/",
+		"title": "monitoring",
+		"topLevel": false,
+		"text": "title monitoring notes on monitoringmetrics that matteractual user experiencetail latency availability  1 errors  slow responses if 1 in 30 times the response is slow and times out users will call that an error deal with it users will probably reload at about 3x 5x median latencyservice efficiency normal  take historical demand extrapolate forward add inorganic changes now it takes 2 api calls or whatever change youre making divide projected demand by efficiency and secure resources sad panda you change the service all the time benchmark before major releases on an interval or during big changes even minor changes can make big perf changes common ways to find efficiency has changed is an outage we thought we have n2 but we had n  05 and ate shit solution daily benchmarking on service efficiency if you purchase fixed assets you need this to prevent outages even if you have a cloud provider you need it to keep costs under control notes on srekey pieces include status parity free transfer scarcity operational load caps error budgetsavailabilitylatencyperformanceefficiencychange managementmonitoringemergency responsecapacity planningsre has quarterly service reviews designed to measure ops workload 50 time doing developmentthe business or the product must establish what the availability target is for the system once youve done that one minus the availability target is what we call the error budget if its 9999 available that means that its 001 unavailable now we are allowed to have 01 unavailability and this is a budgetsre no longer has to apply any judgment about what the development team is doing sre measures and enforces but we do not assess or judge our take is as long as your availability as we measure it is above your service level objective slo youre clearly doing a good job youre making accurate decisions about how risky something is how many experiments you should run and so on so knock yourselves out and launch whatever you want were not going to interfere and this continues until you blow the budgetit is crucial that you establish what the target slo is upfront because that is the standard against which you are agreeing that the service will be measured sre is at that point simply measuring and enforcing something weve already agreed we want very handy position to be inmonitoringso there are in my view only three kinds of valid monitoring output there are alerts which say a human must take action right now something that is happening or about to happen that a human needs to take action immediately to improve the situationthe second category is tickets a human needs to take action but not immediately you have maybe hours typically days but some human action is requiredthe third category is logging no one ever needs to look at this information but it is available for diagnostic or forensic purposes the expectation is that no one reads itthere is mean time between failuremean time to repair",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/monitoring.md"
+	},{
+		"url": "/management/processes/planning/",
+		"title": "planning",
+		"topLevel": false,
+		"text": "title planning to categorize the secret to a great planning process lessons from airbnb and eventbrite         ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/planning.md"
+	},{
+		"url": "/management/processes/software_design/",
+		"title": "software design",
+		"topLevel": false,
+		"text": "title software design to categorize operating a large distributed system in a reliable way practices i learned         ",
+		"parents": ["Engineering Management"
+			,"processes"
+			],
+		"filePath": "/src/pages/management/processes/software_design.md"
+	},{
 		"url": "/management/product/",
 		"title": "Product",
 		"topLevel": false,
-		"text": "title product on writing product roadmaps what why how a guide to engineering project initiation state the problem product strategy",
+		"text": "title productto categorize on writing product roadmaps what why how a guide to engineering project initiation state the problem product strategy which features to build",
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/product.md"
@@ -265,6 +345,14 @@
 			"url": "/management/feedback/"
 		}
 	},{
+		"title": "14 questions to ask an underperforming employee during a one-on-one meeting",
+		"link": "https://knowyourteam.com/blog/2018/10/22/14-questions-to-ask-an-underperforming-employee-during-a-one-on-one-meeting/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
 		"title": "3 point Seatbelts",
 		"link": "https://blotcdn.com/blog_b43c882cbfb74d38aa56c2ac00888c0a/_image_cache/2ace15a4-f0de-460d-bccf-1f00fff93d59.jpg",
 		"domain": "",
@@ -341,8 +429,8 @@
 		"link": "https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/",
 		"domain": "",
 		"source": {
-			"title": "Performance Reviews",
-			"url": "/management/performance_reviews/"
+			"title": "Engineering Management",
+			"url": "/management/"
 		}
 	},{
 		"title": "BRAINSTORMING TEAM AND MANAGER EXPECTATIONS",
@@ -417,6 +505,14 @@
 			"url": "/vanagon/exterior/"
 		}
 	},{
+		"title": "Collaboration In Post-Incident Review",
+		"link": "https://www.researchgate.net/publication/344166071_Collaboration_In_Post-Incident_Review_Skybrary_Hindsight_26",
+		"domain": "",
+		"source": {
+			"title": "incident review",
+			"url": "/management/processes/incident_review/"
+		}
+	},{
 		"title": "Cool URIs don&#39;t change",
 		"link": "https://www.w3.org/Provider/Style/URI",
 		"domain": "",
@@ -479,6 +575,14 @@
 		"source": {
 			"title": "Interior",
 			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Don&#39;t get locked up into avoiding lock-in",
+		"link": "https://martinfowler.com/articles/oss-lockin.html",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
 		}
 	},{
 		"title": "Download the Intersect Alfred Workflow here",
@@ -745,6 +849,14 @@
 			"url": "/vanagon/exterior/"
 		}
 	},{
+		"title": "How 5 Minutes of Preparation Can Finally Make Standup Meetings Productive",
+		"link": "https://codeclimate.com/blog/productive-standup-meeting/",
+		"domain": "",
+		"source": {
+			"title": "agile",
+			"url": "/management/processes/agile/"
+		}
+	},{
 		"title": "How I stopped being awful at managing: Leadership lessons from a Dev",
 		"link": "https://www.hackernoon.com/how-i-stopped-being-awful-at-managing-leadership-lessons-from-a-dev-d1bfebcb3a21",
 		"domain": "",
@@ -801,6 +913,14 @@
 			"url": "/management/on_being/a_lead/"
 		}
 	},{
+		"title": "How to Make Good Code Reviews Better",
+		"link": "https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/",
+		"domain": "",
+		"source": {
+			"title": "code reviews",
+			"url": "/management/processes/code_reviews/"
+		}
+	},{
 		"title": "How to Price your SaaS product",
 		"link": "https://www.lennyrachitsky.com/p/saas-pricing-strategy",
 		"domain": "",
@@ -815,6 +935,14 @@
 		"source": {
 			"title": "an Executive",
 			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "How to discuss poor performance with an employee",
+		"link": "https://knowyourteam.com/blog/2019/01/31/how-to-discuss-poor-performance-with-an-employee/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
 		}
 	},{
 		"title": "How to fail as a new engineering manager",
@@ -833,12 +961,28 @@
 			"url": "/management/culture/"
 		}
 	},{
+		"title": "How to write a good software design doc",
+		"link": "https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
+		}
+	},{
 		"title": "How to: Repair or re-key door locks",
 		"link": "https://www.vwvortex.com/threads/how-to-repair-or-re-key-door-locks.3496179/",
 		"domain": "",
 		"source": {
 			"title": "Exterior",
 			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "How we make decisions at Coinbase",
+		"link": "https://www.coinbase.com/blog/how-we-make-decisions-at-coinbase",
+		"domain": "",
+		"source": {
+			"title": "decision making",
+			"url": "/management/processes/decision_making/"
 		}
 	},{
 		"title": "Instapaper",
@@ -903,6 +1047,14 @@
 		"source": {
 			"title": "Engineering Management",
 			"url": "/management/"
+		}
+	},{
+		"title": "Leveling Up Your Organization With System Reviews",
+		"link": "https://www.etsy.com/codeascraft/leveling-up-with-system-reviews",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
 		}
 	},{
 		"title": "Loop",
@@ -993,6 +1145,14 @@
 			"url": "/meta/readme/"
 		}
 	},{
+		"title": "No Kings How Do You Make Good Decisions Efficiently in a Flat Organization",
+		"link": "https://doist.com/blog/decision-making-flat-organization/",
+		"domain": "",
+		"source": {
+			"title": "decision making",
+			"url": "/management/processes/decision_making/"
+		}
+	},{
 		"title": "OKRs That Don&#39;t Suck",
 		"link": "https://quietstars.com/lax2020/",
 		"domain": "",
@@ -1041,12 +1201,28 @@
 			"url": "/management/operating_principals/"
 		}
 	},{
+		"title": "Operating a Large, Distributed System in a Reliable Way: Practices I Learned",
+		"link": "https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/",
+		"domain": "",
+		"source": {
+			"title": "software design",
+			"url": "/management/processes/software_design/"
+		}
+	},{
 		"title": "Our 6 Must Reads for Managers to Give Feedback That Helps People Grow",
 		"link": "http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/?email=mattfinlayson@gmail.com&amp;sdate=09/12/2017&amp;name=",
 		"domain": "",
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way",
+		"link": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
 		}
 	},{
 		"title": "Phase 1 of Hiring, Getting from 0-30",
@@ -1145,6 +1321,22 @@
 			"url": "/meta/logo-ideas/"
 		}
 	},{
+		"title": "Reviewing Pull Requests",
+		"link": "https://chelseatroy.com/2019/12/18/reviewing-pull-requests/",
+		"domain": "",
+		"source": {
+			"title": "code reviews",
+			"url": "/management/processes/code_reviews/"
+		}
+	},{
+		"title": "Run less software",
+		"link": "https://www.intercom.com/blog/run-less-software/",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
+		}
+	},{
 		"title": "Rust Never Sleeps",
 		"link": "https://larry-saavedra.squarespace.com/automotive/2020/6/25/dont-be-intimidated-by-bodywork",
 		"domain": "",
@@ -1177,6 +1369,14 @@
 			"url": "/vanagon/exterior/"
 		}
 	},{
+		"title": "Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs",
+		"link": "https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
+		}
+	},{
 		"title": "Scripts for my homemade wiki - All this",
 		"link": "https://leancrew.com/all-this/2021/08/scripts-for-my-homemade-wiki/",
 		"domain": "",
@@ -1191,6 +1391,14 @@
 		"source": {
 			"title": "Meta",
 			"url": "/meta/"
+		}
+	},{
+		"title": "Selecting a Cloud Provider",
+		"link": "https://www.etsy.com/codeascraft/selecting-a-cloud-provider",
+		"domain": "",
+		"source": {
+			"title": "decision making",
+			"url": "/management/processes/decision_making/"
 		}
 	},{
 		"title": "Sewfine Installation Instructions",
@@ -1231,6 +1439,14 @@
 		"source": {
 			"title": "Career Ladder",
 			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Software Engineering Promotions: Advice to Get to That Next Level",
+		"link": "https://blog.pragmaticengineer.com/software-engineering-promotions/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
 		}
 	},{
 		"title": "Some common hiring manager mistakes.",
@@ -1305,6 +1521,14 @@
 			"url": "/management/feedback/"
 		}
 	},{
+		"title": "The Art of the OKR",
+		"link": "http://eleganthack.com/the-art-of-the-okr/",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
+		}
+	},{
 		"title": "The Branching Career Path",
 		"link": "https://medium.com/ux-career/the-branching-career-path-63a4ff592e29",
 		"domain": "",
@@ -1337,12 +1561,28 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "The Difference Between Goals, Strategies, Metrics, OKRs, KPIs, and KRIs",
+		"link": "https://danielmiessler.com/blog/the-difference-between-goals-strategies-metrics-okrs-kpis-and-kris/",
+		"domain": "",
+		"source": {
+			"title": "goal setting",
+			"url": "/management/processes/goal_setting/"
+		}
+	},{
 		"title": "The Indispensable Document for the Modern Manager",
 		"link": "https://review.firstround.com/the-indispensable-document-for-the-modern-manager",
 		"domain": "",
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "The Powerful Ritual of Daily Design Reviews",
+		"link": "https://medium.com/@jmspool/the-powerful-ritual-of-daily-design-reviews-ef99844b0ff8",
+		"domain": "",
+		"source": {
+			"title": "code reviews",
+			"url": "/management/processes/code_reviews/"
 		}
 	},{
 		"title": "The Rands Test",
@@ -1415,6 +1655,14 @@
 		"source": {
 			"title": "Exterior",
 			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite",
+		"link": "https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/",
+		"domain": "",
+		"source": {
+			"title": "planning",
+			"url": "/management/processes/planning/"
 		}
 	},{
 		"title": "Things I&#39;ve learned transitioning from engineer to engineering manager",
@@ -1585,6 +1833,14 @@
 			"url": "/vanagon/exterior/"
 		}
 	},{
+		"title": "What Shape are You?",
+		"link": "https://tynan.com/shapes/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
 		"title": "What do executives do, anyway?",
 		"link": "https://apenwarr.ca/log/20190926",
 		"domain": "",
@@ -1611,6 +1867,14 @@
 	},{
 		"title": "What, Why, How - A guide to engineering project initiation",
 		"link": "https://sre.google/resources/practices-and-processes/what-why-how/",
+		"domain": "",
+		"source": {
+			"title": "Product",
+			"url": "/management/product/"
+		}
+	},{
+		"title": "Which Features to build?",
+		"link": "https://medium.com/product-love/which-features-to-build-30d8abab5326",
 		"domain": "",
 		"source": {
 			"title": "Product",
@@ -1653,8 +1917,8 @@
 		"link": "https://medium.com/@johnpcutler/acute-vs-chronic-product-issues-a4aa6a4e606",
 		"domain": "",
 		"source": {
-			"title": "Performance Reviews",
-			"url": "/management/performance_reviews/"
+			"title": "Engineering Management",
+			"url": "/management/"
 		}
 	},{
 		"title": "add your `FATHOM_API_KEY`",
@@ -1679,6 +1943,14 @@
 		"source": {
 			"title": "Readme",
 			"url": "/meta/readme/"
+		}
+	},{
+		"title": "http://www.standalone-sysadmin.com/blog/2014/06/the-difference-between-site-reliability-engineering-system-administration-and-devops/",
+		"link": "http://www.standalone-sysadmin.com/blog/2014/06/the-difference-between-site-reliability-engineering-system-administration-and-devops/",
+		"domain": "",
+		"source": {
+			"title": "monitoring",
+			"url": "/management/processes/monitoring/"
 		}
 	},{
 		"title": "https://architectelevator.com/transformation/debugging-architect/",
@@ -1721,14 +1993,6 @@
 			"url": "/management/operating_principals/"
 		}
 	},{
-		"title": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
-		"link": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
-		"domain": "",
-		"source": {
-			"title": "Performance Reviews",
-			"url": "/management/performance_reviews/"
-		}
-	},{
 		"title": "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/",
 		"link": "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/",
 		"domain": "",
@@ -1767,6 +2031,14 @@
 		"source": {
 			"title": "Operating Principals",
 			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview",
+		"link": "https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview",
+		"domain": "",
+		"source": {
+			"title": "monitoring",
+			"url": "/management/processes/monitoring/"
 		}
 	},{
 		"title": "https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&amp;amp;loop=false&amp;amp;start=false&amp;amp;slide=id.g8ab165be3e_1_46",
@@ -1831,6 +2103,14 @@
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://hackernoon.com/how-i-stopped-being-awful-at-managing-leadership-lessons-from-a-dev-d1bfebcb3a21",
+		"link": "https://hackernoon.com/how-i-stopped-being-awful-at-managing-leadership-lessons-from-a-dev-d1bfebcb3a21",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
 		}
 	},{
 		"title": "https://hackernoon.com/renovating-teams-3fd708cdac74",
@@ -2191,14 +2471,6 @@
 		"source": {
 			"title": "Engineering Management",
 			"url": "/management/"
-		}
-	},{
-		"title": "https://tynan.com/shapes/",
-		"link": "https://tynan.com/shapes/",
-		"domain": "",
-		"source": {
-			"title": "Performance Reviews",
-			"url": "/management/performance_reviews/"
 		}
 	},{
 		"title": "https://usecandor.com/",
@@ -2689,6 +2961,114 @@
 			class="open"
 		>
 			<a
+				class=" "
+				href="/intersect/management/processes/"
+			>
+				processes
+			</a>
+			<ul>
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/agile/"
+			>
+				agile
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/code_reviews/"
+			>
+				code reviews
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/decision_making/"
+			>
+				decision making
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/goal_setting/"
+			>
+				goal setting
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/incident_review/"
+			>
+				incident review
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/monitoring/"
+			>
+				monitoring
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/planning/"
+			>
+				planning
+			</a>
+			
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
+				class=" "
+				href="/intersect/management/processes/software_design/"
+			>
+				software design
+			</a>
+			
+		</li>
+		</ul>
+		</li>
+		
+		<li
+			class="open"
+		>
+			<a
 				class="active "
 				href="/intersect/management/product/"
 			>
@@ -2771,24 +3151,18 @@
 						<h1>Product</h1>
 						<div class="meta">
 							<div class="toc-toggler"><svg><use xlink:href="#menu"></use></svg></div>
-							4 links&nbsp;&bull;&nbsp;<a href="/management/">Engineering Management</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/product/">Product</a>
+							5 links&nbsp;&bull;&nbsp;<a href="/management/">Engineering Management</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/product/">Product</a>
 							<a target="_blank" rel="noopener" class="github-link" href="https://github.com/mattfinlayson/intersect/blob/main/src/pages/management/product.md"><svg><use xlink:href="#github"></use></svg></a>
 						</div>
 
                         <div data-pagefind-body>
-						    <ul>
-<li>
-<p><a href="https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c">On Writing Product Roadmaps</a></p>
-</li>
-<li>
-<p><a href="https://sre.google/resources/practices-and-processes/what-why-how/">What, Why, How - A guide to engineering project initiation</a></p>
-</li>
-<li>
-<p><a href="https://lamport.azurewebsites.net/pubs/state-the-problem.pdf">State the Problem</a></p>
-</li>
-<li>
-<p><a href="https://medium.com/swlh/what-is-product-strategy-bd2a4829f36b">product strategy</a></p>
-</li>
+						    <p>To Categorize:</p>
+<ul>
+<li><a href="https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c">On Writing Product Roadmaps</a></li>
+<li><a href="https://sre.google/resources/practices-and-processes/what-why-how/">What, Why, How - A guide to engineering project initiation</a></li>
+<li><a href="https://lamport.azurewebsites.net/pubs/state-the-problem.pdf">State the Problem</a></li>
+<li><a href="https://medium.com/swlh/what-is-product-strategy-bd2a4829f36b">product strategy</a></li>
+<li><a href="https://medium.com/product-love/which-features-to-build-30d8abab5326">Which Features to build?</a></li>
 </ul>
 
                         </div>

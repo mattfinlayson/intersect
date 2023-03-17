@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width" />
 		<meta name="Description" content="The Intersect. Personal Wiki">
 
-		<title>Sitemap - The Intersect</title>
+		<title>monitoring - The Intersect</title>
 
 		<link rel="stylesheet" href="/intersect/assets/css/dist.min.css">
 
@@ -19,10 +19,10 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="theme-color" content="#ffffff">
 
-		<meta property="og:title" content="Sitemap - The Intersect">
+		<meta property="og:title" content="monitoring - The Intersect">
 		<meta property="og:description" content="Personal Wiki">
         <meta property="description" content="Personal Wiki">
-		<meta property="og:url" content="https://mattfinlayson.github.io/meta/sitemap/">
+		<meta property="og:url" content="https://mattfinlayson.github.io/management/processes/monitoring/">
         <meta property="og:image" content="intersect/assets/img/preview.png">
 
 		
@@ -2781,7 +2781,7 @@
 			class="open"
 		>
 			<a
-				class="active "
+				class=" "
 				href="/intersect/meta/sitemap/"
 			>
 				Sitemap
@@ -3031,7 +3031,7 @@
 			class="open"
 		>
 			<a
-				class=" "
+				class="active "
 				href="/intersect/management/processes/monitoring/"
 			>
 				monitoring
@@ -3148,49 +3148,79 @@
 						<div class="toolbar__block right"></div>
 					</nav>
 					<div class="content markdown-body">
-						<h1>Sitemap</h1>
+						<h1>monitoring</h1>
 						<div class="meta">
 							<div class="toc-toggler"><svg><use xlink:href="#menu"></use></svg></div>
-							0 links&nbsp;&bull;&nbsp;<a href="/meta/">Meta</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/meta/sitemap/">Sitemap</a>
-							<a target="_blank" rel="noopener" class="github-link" href="https://github.com/mattfinlayson/intersect/blob/main/src/pages/meta/sitemap.md"><svg><use xlink:href="#github"></use></svg></a>
+							2 links&nbsp;&bull;&nbsp;<a href="/management/">Engineering Management</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/processes/">processes</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/processes/monitoring/">monitoring</a>
+							<a target="_blank" rel="noopener" class="github-link" href="https://github.com/mattfinlayson/intersect/blob/main/src/pages/management/processes/monitoring.md"><svg><use xlink:href="#github"></use></svg></a>
 						</div>
 
                         <div data-pagefind-body>
-						    <ul><li><a href="/">Introduction</a></li>
-<li><a href="/meta/">Meta</a><ul><li><a href="/meta/alfred-workflow/">Alfred Workflow</a></li>
-<li><a href="/meta/logo-ideas/">Logo Ideas</a></li>
-<li><a href="/meta/readme/">Readme</a></li>
-<li><a href="/meta/sitemap/">Sitemap</a></li>
-<li><a href="/meta/stats/">Stats</a></li></ul></li>
-<li><a href="/management/">Engineering Management</a><ul><li><a href="/management/career_ladders/">Career Ladder</a></li>
-<li><a href="/management/culture/">Culture</a></li>
-<li><a href="/management/feedback/">Feedback & Reviews</a></li>
-<li><a href="/management/hiring/">Recruiting, Interviewing, and Hiring</a></li>
-<li><a href="/management/on_being/">On Being</a><ul><li><a href="/management/on_being/a_lead/">a Lead</a></li>
-<li><a href="/management/on_being/a_manager/">a Manager</a></li>
-<li><a href="/management/on_being/an_engineer/">an Engineer</a></li>
-<li><a href="/management/on_being/an_executive/">an Executive</a></li></ul></li>
-<li><a href="/management/operating_principals/">Operating Principals</a></li>
-<li><a href="/management/org_chart/">Org Chart</a></li>
-<li><a href="/management/performance_reviews/">Performance Reviews</a></li>
-<li><a href="/management/processes/">processes</a><ul><li><a href="/management/processes/agile/">agile</a></li>
-<li><a href="/management/processes/code_reviews/">code reviews</a></li>
-<li><a href="/management/processes/decision_making/">decision making</a></li>
-<li><a href="/management/processes/goal_setting/">goal setting</a></li>
-<li><a href="/management/processes/incident_review/">incident review</a></li>
-<li><a href="/management/processes/monitoring/">monitoring</a></li>
-<li><a href="/management/processes/planning/">planning</a></li>
-<li><a href="/management/processes/software_design/">software design</a></li></ul></li>
-<li><a href="/management/product/">Product</a></li></ul></li>
-<li><a href="/vanagon/">Vanagon</a><ul><li><a href="/vanagon/electronics/">Electronics</a></li>
-<li><a href="/vanagon/exterior/">Exterior</a></li>
-<li><a href="/vanagon/interior/">Interior</a></li></ul></li></ul>
-<p><a href="/sitemap.xml">sitemap.xml</a></p>
+						    <h1>Notes on monitoring</h1>
+<p>Metrics That Matter</p>
+<p>Actual User Experience</p>
+<p>Tail Latency</p>
+<ul>
+<li>Availability = 1 - (errors + slow responses)</li>
+<li>If 1 in 30 times the response is slow and times out users will call that an error. Deal with it.</li>
+<li>Users will probably reload at about 3x - 5x median latency.</li>
+</ul>
+<p>Service efficiency</p>
+<ul>
+<li>Normal:
+<ul>
+<li>Take historical demand</li>
+<li>extrapolate forward</li>
+<li>Add inorganic changes (now it takes 2 api calls or whatever change you’re making)</li>
+<li>Divide projected demand by efficiency and secure resources</li>
+</ul>
+</li>
+<li>Sad Panda - you change the service all the time
+<ul>
+<li>Benchmark before major releases, on an interval, or during big changes</li>
+<li>Even minor changes can make big perf changes</li>
+<li>Common ways to find efficiency has changed is an outage (we thought we have n+2, but we had n + 0.5 and ate shit)</li>
+</ul>
+</li>
+<li>Solution
+<ul>
+<li>Daily benchmarking on service efficiency</li>
+<li>If you purchase fixed assets you need this to prevent outages</li>
+<li>Even if you have a cloud provider you need it to keep costs under control.</li>
+</ul>
+</li>
+</ul>
+<h1>Notes on SRE</h1>
+<p>key pieces include status parity, free transfer, scarcity, operational load caps, error budgets</p>
+<p>availability<br>
+latency<br>
+performance<br>
+efficiency<br>
+change management<br>
+monitoring<br>
+emergency response<br>
+capacity planning</p>
+<p>SRE has quarterly service reviews</p>
+<ul>
+<li>designed to measure ops workload</li>
+<li>50% time doing development</li>
+</ul>
+<p>The business or the product must establish what the availability target is for the system. Once you've done that, one minus the availability target is what we call the error budget; if it's 99.99% available, that means that it's 0.01% unavailable. Now we are allowed to have .01% unavailability and this is a budget.<br>
+SRE no longer has to apply any judgment about what the development team is doing. SRE measures and enforces, but we do not assess or judge. Our take is &quot;As long as your availability as we measure it is above your Service Level Objective (SLO), you're clearly doing a good job. You're making accurate decisions about how risky something is, how many experiments you should run, and so on. So knock yourselves out and launch whatever you want. We're not going to interfere.&quot; And this continues until you blow the budget.</p>
+<p>It is crucial that you establish what the target SLO is upfront, because that is the standard against which you are agreeing that the service will be measured. SRE is at that point simply measuring and enforcing something we've already agreed we want. Very handy position to be in.</p>
+<p>Monitoring</p>
+<p>So there are, in my view, only three kinds of valid monitoring output. There are alerts, which say a human must take action right now. Something that is happening or about to happen, that a human needs to take action immediately to improve the situation.<br>
+The second category is tickets. A human needs to take action, but not immediately. You have maybe hours, typically, days, but some human action is required.<br>
+The third category is logging. No one ever needs to look at this information, but it is available for diagnostic or forensic purposes. The expectation is that no one reads it.</p>
+<p>There is mean time between failure<br>
+mean time to repair</p>
+<p><a href="https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview">https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/preview</a><br>
+<a href="http://www.standalone-sysadmin.com/blog/2014/06/the-difference-between-site-reliability-engineering-system-administration-and-devops/">http://www.standalone-sysadmin.com/blog/2014/06/the-difference-between-site-reliability-engineering-system-administration-and-devops/</a></p>
 
                         </div>
 
 						<footer>
-							Updated <strong></strong> &bull; <a target="_blank" rel="noopener" href="https://github.com/mattfinlayson/intersect/commits/main/src/pages/meta/sitemap.md">View page history</a>
+							Updated <strong></strong> &bull; <a target="_blank" rel="noopener" href="https://github.com/mattfinlayson/intersect/commits/main/src/pages/management/processes/monitoring.md">View page history</a>
 						</footer>
 					</div>
 				</div>

@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width" />
 		<meta name="Description" content="The Intersect. Personal Wiki">
 
-		<title>Sitemap - The Intersect</title>
+		<title>incident review - The Intersect</title>
 
 		<link rel="stylesheet" href="/intersect/assets/css/dist.min.css">
 
@@ -19,10 +19,10 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="theme-color" content="#ffffff">
 
-		<meta property="og:title" content="Sitemap - The Intersect">
+		<meta property="og:title" content="incident review - The Intersect">
 		<meta property="og:description" content="Personal Wiki">
         <meta property="description" content="Personal Wiki">
-		<meta property="og:url" content="https://mattfinlayson.github.io/meta/sitemap/">
+		<meta property="og:url" content="https://mattfinlayson.github.io/management/processes/incident_review/">
         <meta property="og:image" content="intersect/assets/img/preview.png">
 
 		
@@ -2781,7 +2781,7 @@
 			class="open"
 		>
 			<a
-				class="active "
+				class=" "
 				href="/intersect/meta/sitemap/"
 			>
 				Sitemap
@@ -3019,7 +3019,7 @@
 			class="open"
 		>
 			<a
-				class=" "
+				class="active "
 				href="/intersect/management/processes/incident_review/"
 			>
 				incident review
@@ -3148,49 +3148,46 @@
 						<div class="toolbar__block right"></div>
 					</nav>
 					<div class="content markdown-body">
-						<h1>Sitemap</h1>
+						<h1>incident review</h1>
 						<div class="meta">
 							<div class="toc-toggler"><svg><use xlink:href="#menu"></use></svg></div>
-							0 links&nbsp;&bull;&nbsp;<a href="/meta/">Meta</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/meta/sitemap/">Sitemap</a>
-							<a target="_blank" rel="noopener" class="github-link" href="https://github.com/mattfinlayson/intersect/blob/main/src/pages/meta/sitemap.md"><svg><use xlink:href="#github"></use></svg></a>
+							1 links&nbsp;&bull;&nbsp;<a href="/management/">Engineering Management</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/processes/">processes</a><svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg><a href="/management/processes/incident_review/">incident review</a>
+							<a target="_blank" rel="noopener" class="github-link" href="https://github.com/mattfinlayson/intersect/blob/main/src/pages/management/processes/incident_review.md"><svg><use xlink:href="#github"></use></svg></a>
 						</div>
 
                         <div data-pagefind-body>
-						    <ul><li><a href="/">Introduction</a></li>
-<li><a href="/meta/">Meta</a><ul><li><a href="/meta/alfred-workflow/">Alfred Workflow</a></li>
-<li><a href="/meta/logo-ideas/">Logo Ideas</a></li>
-<li><a href="/meta/readme/">Readme</a></li>
-<li><a href="/meta/sitemap/">Sitemap</a></li>
-<li><a href="/meta/stats/">Stats</a></li></ul></li>
-<li><a href="/management/">Engineering Management</a><ul><li><a href="/management/career_ladders/">Career Ladder</a></li>
-<li><a href="/management/culture/">Culture</a></li>
-<li><a href="/management/feedback/">Feedback & Reviews</a></li>
-<li><a href="/management/hiring/">Recruiting, Interviewing, and Hiring</a></li>
-<li><a href="/management/on_being/">On Being</a><ul><li><a href="/management/on_being/a_lead/">a Lead</a></li>
-<li><a href="/management/on_being/a_manager/">a Manager</a></li>
-<li><a href="/management/on_being/an_engineer/">an Engineer</a></li>
-<li><a href="/management/on_being/an_executive/">an Executive</a></li></ul></li>
-<li><a href="/management/operating_principals/">Operating Principals</a></li>
-<li><a href="/management/org_chart/">Org Chart</a></li>
-<li><a href="/management/performance_reviews/">Performance Reviews</a></li>
-<li><a href="/management/processes/">processes</a><ul><li><a href="/management/processes/agile/">agile</a></li>
-<li><a href="/management/processes/code_reviews/">code reviews</a></li>
-<li><a href="/management/processes/decision_making/">decision making</a></li>
-<li><a href="/management/processes/goal_setting/">goal setting</a></li>
-<li><a href="/management/processes/incident_review/">incident review</a></li>
-<li><a href="/management/processes/monitoring/">monitoring</a></li>
-<li><a href="/management/processes/planning/">planning</a></li>
-<li><a href="/management/processes/software_design/">software design</a></li></ul></li>
-<li><a href="/management/product/">Product</a></li></ul></li>
-<li><a href="/vanagon/">Vanagon</a><ul><li><a href="/vanagon/electronics/">Electronics</a></li>
-<li><a href="/vanagon/exterior/">Exterior</a></li>
-<li><a href="/vanagon/interior/">Interior</a></li></ul></li></ul>
-<p><a href="/sitemap.xml">sitemap.xml</a></p>
+						    <p>Production Incident</p>
+<p>From Google SRE book:</p>
+<p>It is better to declare an incident early and then find a simple fix and close out the incident than to have to spin up the incident management framework hours into a burgeoning problem. Set clear conditions for declaring an incident. My team follows these broad guidelines—if any of the following is true, the event is an incident:</p>
+<p>Do you need to involve a second team in fixing the problem?<br>
+Is the outage visible to customers?<br>
+Is the issue unsolved even after an hour’s concentrated analysis?</p>
+<p>Incident management proficiency atrophies quickly when it’s not in constant use. So how can engineers keep their incident management skills up to date—handle more incidents? Fortunately, the incident management framework can apply to other operational changes that need to span time zones and/or teams. If you use the framework frequently as a regular part of your change management procedures, you can easily follow this framework when an actual incident occurs. If your organization performs disaster-recovery testing (you should, it’s fun: see [Kri12]), incident management should be part of that testing process. We often role-play the response to an on-call issue that has already been solved, perhaps by colleagues in another location, to further familiarize ourselves with incident management.</p>
+<p>Severities (SAAS from VMWare)</p>
+<p>Critical (SaaS Severity 1) 	Critical production issue that severely impacts your use of the service. The situation halts your business operations and no procedural workaround exists.</p>
+<p>Service is down or unavailable.</p>
+<p>Data corrupted or lost and must restore from backup.</p>
+<p>A critical documented feature / function is not available.</p>
+<p>Severity 1 issues require the customer to have dedicated resources available to work on the issue on an ongoing basis with VMware.</p>
+<p>Major (SaaS Severity 2) 	Major functionality is impacted or significant performance degradation is experienced. The situation is causing a high impact to portions of your business operations and no reasonable workaround exists.</p>
+<p>Service is operational but highly degraded performance to the point of major impact on usage.</p>
+<p>Important features of the Software as a Service offering are unavailable with no acceptable workaround; however, operations can continue in a restricted fashion.</p>
+<p>Minor (SaaS Severity 3) 	There is a partial, non-critical loss of use of the service with a medium-to-low impact on your business, but your business continues to function. Short-term workaround is available, but not scalable.</p>
+<p>Cosmetic (SaaS Severity 4) 	Inquiry regarding a routine technical issue; information requested on application capabilities, navigation, installation or configuration; bug affecting a small number of users. Acceptable workaround available.</p>
+<p>Software as a Service Support Policies</p>
+<p>To Categorize:</p>
+<ul>
+<li><a href="https://www.researchgate.net/publication/344166071_Collaboration_In_Post-Incident_Review_Skybrary_Hindsight_26">Collaboration In Post-Incident Review</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+</ul>
 
                         </div>
 
 						<footer>
-							Updated <strong></strong> &bull; <a target="_blank" rel="noopener" href="https://github.com/mattfinlayson/intersect/commits/main/src/pages/meta/sitemap.md">View page history</a>
+							Updated <strong></strong> &bull; <a target="_blank" rel="noopener" href="https://github.com/mattfinlayson/intersect/commits/main/src/pages/management/processes/incident_review.md">View page history</a>
 						</footer>
 					</div>
 				</div>
