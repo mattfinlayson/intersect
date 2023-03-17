@@ -3,8 +3,38 @@ title: an Executive
 ---
 
 
-To Categorize:
+# Budgeting 
 
+As an engineering leader you're faced with two 'human capital' measurement problems,
+ 1. Where is your engineering time going
+ 2. Why can't you get more done
+
+Having a framework in place prior to challenges gives you and your team agency in the discussion. To drive Strategic Planning, Team Alignment and Prioritization, and Transparency they bucketed the work into 4 categories:
+- Required investments - “minimum tasks to maintain the current level of service in the eyes of our customers”. 
+    - Keep the lights on (KTLO) 
+- Elective investments
+    - Build new stuff (for customers) ~60% 
+    - Improve existing stuff (for customers) ~20%
+    - Increase your productivity (not customer visible) ~20%
+
+Strategic Planning (Annual)
+
+At this level you're looking to align the right balance for the company for the coming year. 
+- Discuss previous allocation
+- Key points about what got done and what didn't (against goals)
+- Propose allocations for the coming year
+- Highlight changes
+
+Group and Team (Quarterly)
+
+To have traction, the framework can’t appear at annual planning and disappear for the rest of the year. What worked well for us was asking teams to report on their allocation across these buckets on a quarterly basis. Collected by engineering directors, expected vs. actual allocation in the previous quarter, and the expectation for next quarter. Read out by Program Management.
+
+- Matt Eccleston - [A framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
+
+
+
+To Categorize:
+- [Engineering strategy.](https://lethain.com/engineering-strategy/)
 - [THE FOUR FUNCTIONS OF AN EXECUTIVE TEAM](https://www.palomamedina.com/blog/execteamfunctions)
 - [Week In Review Comms](https://larahogan.me/blog/week-in-review/)
 - [Redpoint GTM Survey](https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&loop=false&start=false&slide=id.p)

@@ -69,6 +69,7 @@ module.exports = function(eleventyConfig) {
 
 	return {
 		passthroughFileCopy: true,
+		pathPrefix: "/intersect",
 		dir: {
 			input: "src/pages",
 			output: "public",

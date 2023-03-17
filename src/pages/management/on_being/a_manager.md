@@ -150,7 +150,7 @@ https://kimmoir.blog/2021/11/30/my-favourite-books-for-new-managers/
 
 
 
-
+- [10 Habits That Help Me as a Manager](http://www.martymatheny.com/blog/2020/10/2/10-habits-that-help-me-as-a-manager)
 - [It's not a promotion - it's a career change](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/)
 - [Help! I’ve just been made a manager](https://fractio.nl/2016/01/25/help-i-have-just-been-made-a-manager/)
 - [The Problem with Tech Leads](https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c)

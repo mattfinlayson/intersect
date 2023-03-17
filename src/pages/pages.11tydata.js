@@ -61,7 +61,7 @@ module.exports = {
       }
       return {
         key: data.page.fileSlug,
-        parent: getParent(data.page.url, data.page.fileSlug),
+        parent: getParent(data.page.url, data.page.fileSlug,),
         title: data.title,
         order,
       }

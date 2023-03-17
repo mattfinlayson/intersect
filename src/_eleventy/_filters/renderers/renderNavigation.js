@@ -16,7 +16,7 @@ module.exports = function(data) {
 		>
 			<a
 				class="${isCurrentPage ? 'active' : ''} ${isTopLevel ? 'top-level' : ''}"
-				href="${page.url}"
+				href="/intersect${page.url}"
 			>
 				${page.title}
 			</a>

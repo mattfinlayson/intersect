@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #db0a5b;
+  --primary-color: #844dbd;
   --light-primary-color: #f7cfdf;
   --grey-background: #F5F7F9;
   --light-border-color: #eaecef;
@@ -32,7 +32,7 @@
 }
 
 .light {
-  --primary-color: #db0a5b;
+  --primary-color: #844dbd;
   --light-primary-color: #f7cfdf;
   --grey-background: #F5F7F9;
   --light-border-color: #eaecef;
