@@ -2,7 +2,7 @@
 title: Culture
 ---
 
-!(The Idiot's Guide To the Prior Idiots Phenomenon)[idiots_phenomenon.png]
+![The Idiot's Guide To the Prior Idiots Phenomenon](/intersect/assets/img/idiots_phenomenon.png)
 
 
 ### To Categorize
