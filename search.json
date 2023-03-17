@@ -1,0 +1,2386 @@
+{"content" : [{
+		"url": "/",
+		"title": "Introduction",
+		"topLevel": true,
+		"text": "title introductiontemplateengineoverride njkmdim robb knight and this is my digital garden the intersect everything i know mostly quick start expanded readmemetareadme for installation and setup sitemapmetasitemap view the source on github what is thisto quote nikita volodoev directly from their wiki this is my personal wiki where i share everything i know about this world in form of an online gitbook hosted on githubi stumbled across nikitas wiki while looking for alfred workflowsmacosalfred and thought it was a great idea id been toying with the idea of making a tumblrlike blog for little snippets and ideas that dont deserve a full blog post but it always seemed overkill to update that quote to better reflect my setup this is my personal wiki where i share everything i know about this world in form of website hosted on digital ocean and uploaded to githubi found out these are sometimes called digital gardensmeta theres a subreddit of course there is and this is a rabbithole im not sure i really have time to go down but here we areeach page is a file and each file follows a similar structure the title of the page introductionquick thought about the topic subheading for each section with details interesting links related to the topica lot of the pages will just be snippets and links that i want to remember for example the javascript pageprogrammingjs is just a few snippets of things i always need to look up plus some interesting links howgitbook is the obvious choice for something like this and there are bunch of other options as well i wanted full control of how it looked the layout of pages and more so i rolled my own to quote myself internet there are many existing solutions for this me a developer and also an idiot but what if built my own solution insteadthe meta pagesmeta have more details on the setup why intersectthe name is a reference to the government database of intelligence that the titular character gets embedded in his in head in the tv show chucktv_series",
+		"parents": [],
+		"filePath": "/src/pages/index.md"
+	},{
+		"url": "/meta/",
+		"title": "Meta",
+		"topLevel": true,
+		"text": "title metain my research for building this it seems these kind of personal wikis go by a number of names although these arent all _exactly_ the same thing digital garden personal wiki personal knowledge management second brain zettelkasten a method of notetaking and personal knowledge management used in research and studyim not a fan of the digital garden metaphor plant thought seeds etc if i had to come up with a name id be calling it a brain dump so dont leave naming things to me what i hope to achieveive always been someone who likes to archive things not to the extent of jason scott yet and be able to reference them at a later date i never had anywhere good to store snippets of code or a quote i like or a list of products i recommend i also plan to go through a 10 year archive of instapaper links to build out this site because i know for a fact theres a lot of good stuff in there potential issues link rotlink rot is a problem for a lot of sites ive even hit dead links browsing rdigitalgardens and most of those links are less than 12 months old i plan to come up with something to handle this during the build stepi even came across an article in my instapaper archive titled the spread of link rot the link was dead organising topics should mac appsmacosapps that are developer tools go in the developmentwebdev section what about links that cover multiple things updating and managing the site i plan to build a clialfred workflow to help but what about on ios structurei want to make sure the urls stay the same forever which means i need to consider carefully when adding new pages that the page will make sense cool uris dont change links a brief history  ethos of the digital garden maggieappletondigitalgardeners digital gardens kasperzuttermansecondbrain a curated list of awesome public zettelkastens   second brains   digital gardens  minimal gitjournalgitjournal mobile first note taking integrated with git binyamineleventygarden a starter site for building a mind garden with eleventy dendron my homemade wiki all this scripts for my homemade wiki all this 5 no code digital gardens maximevaillancourtdigitalgardenjekylltemplate start your own digital garden using this jekyll template  merlin mannss wisdom project draft eleventy notes",
+		"parents": [],
+		"filePath": "/src/pages/meta/index.md"
+	},{
+		"url": "/management/",
+		"title": "Engineering Management",
+		"topLevel": true,
+		"text": "title engineering management techniquestechnical debt  board meetingslessons from keith rabois essay 4 how to run an effective board meeting and make an effective board deckhow to write investor updates kpis 11 announcement engineering engineering succes gitlab engineering kpis gitlab about kpis engineering kpis remote workvirtual activitiesremote code reviews10 best practices for remote development coordination headwind ",
+		"parents": [],
+		"filePath": "/src/pages/management/index.md"
+	},{
+		"url": "/management/career_ladders/",
+		"title": "Career Ladder",
+		"topLevel": false,
+		"text": "title career ladder measurement categories vevo code quality accuracy rigor autonomy impact design fitbit summary codingengineering architecture  design scope initiative  follow through teamwork quality rent the runway dex technical skill str getting stuff done wis impact cha communication  leadership pintrest technical strategic alignment leadership  communication impact  outcomes cloudability impact technical knowledge teaching and mentoring culture and leadership customer success director levels vevo td1 technical director  td2 senior technical director tf technical fellow fitbit technical director sr technical director rent the runway technical lead engineering lead engineering director vp of engineering cto pintrest l5 l6 l7 l8 cloudability director senior director vp of engineering cto ic levels vevo ic1  software engineer ic2  ic3  senior software engineer ic4 ic5  principal software engineer ic6 fitbit software engineer sr software engineer lead software engineer staff software engineer sr staff engineer principal engineer rent the runway engineer 1 engineer 2 senior engineer 1 senior engineer 2 staff engineer senior staff engineer principle engineer pintrest l3 l4 l5 l6 l7 l8 cloudability associate engineer software engineer sr software engineer lead engineer principle engineer distinguished engineerto categorizeengineer career ladders engineering ladders at meetup datadigests professional technical ladders building a growth framework engineering growth tracks engineering growth framework the branching career path engineering growth introduction how individuals advance at buffer without becoming managers creating a career ladder for engineers engineering career development at etsyengineering manager career ladders dropbox engineering career framework external engineering career tracks software developmentleadership ladder multitrack public",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/career_ladders.md"
+	},{
+		"url": "/management/culture/",
+		"title": "Culture",
+		"topLevel": false,
+		"text": "title culture to categorize of course psychological safetybut how psycological safety in operation teams who i want to work for the rands test how to influence company culture catalysts and psychological safety",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/culture.md"
+	},{
+		"url": "/management/feedback/",
+		"title": "Feedback &amp; Reviews",
+		"topLevel": false,
+		"text": "title feedback  reviewsto categorizefeedback steve jobs secret for eliciting questions overheard at a san francisco cafe the 32 best employee engagement questions with the highest response rates feedback equation 13 questions to get more feedback from your team 321oh how to get helpful actionable feedback from your colleagues a people leaders guide to active listeningreviews team reviews 5 questions a manager should ask themselves every week stripes will larson on designing a performance management system from scratch running a manager feedback cycle how i do hopefully fair performance reviews for software developers",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/feedback.md"
+	},{
+		"url": "/management/hiring/",
+		"title": "Recruiting, Interviewing, and Hiring",
+		"topLevel": false,
+		"text": "title recruiting interviewing and hiringbehavioral questionsbehavioral interview questions task you with describing real situations from the past these help the employer can get a sense of how you might respond in future situations behavioral questions are phrased along the lines oftell me about your most recent group effortdescribe a situation in which you made a significant impact or demonstrated leadershipgive me an example of a complex problem you solved and how you accomplished that task responses to behavioral questions should be specific and structured when asked about your most recent group work for example do not tell the interviewer about your general philosophy of teamwork pick a specific team project describe the team the project how you contributed and the outcome it is not necessary to offer more than one example to categorize good interview questions what weve learned about hiring engineering managers how we interview engineers at circleci phase 1 of hiring getting from 030 onsite interview loop template interview guide how mailchimp does recruiting example spreadsheet for compensation calibration some common hiring manager mistakes",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/hiring.md"
+	},{
+		"url": "/management/on_being/",
+		"title": "On Being",
+		"topLevel": false,
+		"text": "title on beingleaders tell you where you are going and managers tell you where you are ",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/on_being/index.md"
+	},{
+		"url": "/management/on_being/a_lead/",
+		"title": "a Lead",
+		"topLevel": false,
+		"text": "title a leadon being a principal engineerlightweight decision loghow do individual contributors get stuck",
+		"parents": ["Engineering Management"
+			,"On Being"
+			],
+		"filePath": "/src/pages/management/on_being/a_lead.md"
+	},{
+		"url": "/management/on_being/a_manager/",
+		"title": "a Manager",
+		"topLevel": false,
+		"text": "title a managerlearning to be a managerunderstanding motivationmodern leadership theory suggests three simple levels personal private and public leadership starts on the personal level  learning how to lead yourself knowing what drives you engages you inspires you to do better its about being selfaware if you cant see the path to reaching your full potential you probably wont be able to help others reach theirshumans are emotional beings so passion is a big driver in how we perform the alternative to passion is discipline which doesnt come naturally rather it comes through practice we get better quicker at things we are passionate about learn to leverage your passionemotional intelligence the 5 stages of emotional intelligence are selfawareness selfregulation motivation empathy social skillsselfawareness is recognizing when your emotions are influencing your decisions and behavior is your heart or your mind in controlselfregulation is about managing your state of mind being driven by emotion is fine as long as you are still in control and regulating those emotions its ok to exhibit anger as long as you can regulate itmotivating yourself is about knowing your wants and needs emotions come from the heart which is a much more powerful motivator than the mind understand your motivations and you will become more productive and effectiveempathy for others is about recognizing and understanding their wants and needs lack of empathy can be a source of bias figure out what motivates them and you can help them become more productive and effectivesocial skills are the next step in improving teamwork in order to help others become selfaware motivated and empathetic youll need to have good communication and social skills people wont choose to follow you unless you have built a relationship with themmanaging more experienced peoplemanaging more experienced people  the year of the looking glass  mediumdont pretendbeing a technical manager doesnt mean youre the best developer any more than being a running coach means youre the fastest runner the roles are differentif youre spending 11s simply asking for updates without offering much feedback or coaching out of a fear that youll look inexperienced or lose credibility then you certainly arent going to gain any credibility let alone add much valuewelcome the opportunity to learn from senior reportsas a manager your role is to maximize the impact of your teamwhen interviewing senior candidates one of the questions well sometimes discuss in a debrief when making a hiring decision is could i see them becoming my boss some day would i work for this person  saying yes in a strong signal this candidate has a ton of value to add to the teamyou dont have to do everything yourself you just have to make sure everything gets donewhen youre not sure ask questionsyou are the sum of the people around youhow to manage up with your bosshow to manage up with your boss quartz at workthe approach was simple every friday afternoon id send my boss a short email with three categoriesthe work i had completed that weekwhat i was working on including any deadlines that may have shifted or obstacles id encounteredwhat i was waiting onthat is tasks that id completed but require signoff from my boss or contributions from someone elseits not a promotion its a career changeits not a promotion its a career change  fractional by lindsay holmwoodthe engineermanager pendulum  charitywtfone on onesrun better meetings with this expertlevel advice  first round reviewhow to make your oneonones with employees more productivehow to have better one on one meetings for makers and managersstaff meetingsrands on how to make meetings suck less  first round reviewhelp ive just been made a manager  fractional by lindsay holmwoodmanagement skills for new leaders  fractional by lindsay holmwoodwhy do you want to lead people  fractional by lindsay holmwoodthings i wish i was told when i became a managerhow much to manage management energy units  learning by shippingelided branches how do managers get stuckrenovating teams  hacker noontracking compensation and promotion inequity  lara hoganthree paths in the tech industry founder executive or employeeuseful materialssoftwareleadweekly a free weekly email for busy people who care about people culture and leadershipfirst round reviewresponsibilities of a manager develop support coach motivate and reward employees plan ahead and evaluate projects and tasks define with employees clear roles and responsibilities establish goals and performance standards create a healthy work environment by implementing and maintaining work systems policies and procedures  network and act as a liaison between employees and upper managementworkmanagementevent looploopto categorizeessential meetings to have with your people as a manager i love that this article comes with a seasonality to the cadence core needs 10 habits that help me as a manager its not a promotion its a career change help ive just been made a manager the problem with tech leads the engineermanager pendulum are you out of alignment the curious transition to becoming an engineering manager becoming a better manager with andrew sandler questions for prospective managers this 90day plan turns engineers into remarkable managers how to fail as a new engineering manager our 6 must reads for managers to give feedback that helps people grow pinterest founder ben silbermanns lessons on decision making values and taking time for yourself five questions a manager should ask themselves every week how i stopped being awful at managing leadership lessons from a dev running a manager feedback cycle the indispensable document for the modern manager brainstorming team and manager expectations makers schedule managers schedule  things ive learned transitioning from engineer to engineering manager learnings from six months as a firsttime engineering manager feeling succssful the developer  manager feedback loop difference socially visible progress communication communicating big news to your team definition team leader venn diagram updated work at different management levels",
+		"parents": ["Engineering Management"
+			,"On Being"
+			],
+		"filePath": "/src/pages/management/on_being/a_manager.md"
+	},{
+		"url": "/management/on_being/an_engineer/",
+		"title": "an Engineer",
+		"topLevel": false,
+		"text": "title an engineer",
+		"parents": ["Engineering Management"
+			,"On Being"
+			],
+		"filePath": "/src/pages/management/on_being/an_engineer.md"
+	},{
+		"url": "/management/on_being/an_executive/",
+		"title": "an Executive",
+		"topLevel": false,
+		"text": "title an executive budgeting as an engineering leader youre faced with two human capital measurement problems 1 where is your engineering time going 2 why cant you get more donehaving a framework in place prior to challenges gives you and your team agency in the discussion to drive strategic planning team alignment and prioritization and transparency they bucketed the work into 4 categories required investments minimum tasks to maintain the current level of service in the eyes of our customers keep the lights on ktlo elective investments build new stuff for customers 60 improve existing stuff for customers 20 increase your productivity not customer visible 20strategic planning annualat this level youre looking to align the right balance for the company for the coming year discuss previous allocation key points about what got done and what didnt against goals propose allocations for the coming year highlight changesgroup and team quarterlyto have traction the framework cant appear at annual planning and disappear for the rest of the year what worked well for us was asking teams to report on their allocation across these buckets on a quarterly basis collected by engineering directors expected vs actual allocation in the previous quarter and the expectation for next quarter read out by program management matt eccleston a framework for balancing and budgeting engineering resourcingto categorize engineering strategy the four functions of an executive team week in review comms redpoint gtm survey we dont sell saddles here how to successfully hand over systemslessons from keith rabois essay 3 how to be an effective executivehow this head of engineering boosted transparency at instagrammeetings are not for youwhat do executives do anywayfirst 30 days what does a vp of engineering do advice for a new executive how this head of engineering boosted transparency at instagram what do executives do anyway lessons from keith rabois essay 3 how to be an effective executive your first 90 days as cto or vp engineering  ",
+		"parents": ["Engineering Management"
+			,"On Being"
+			],
+		"filePath": "/src/pages/management/on_being/an_executive.md"
+	},{
+		"url": "/management/operating_principals/",
+		"title": "Operating Principals",
+		"topLevel": false,
+		"text": "title operating principals operating principalsoperating calendarnever take money from a vcventure killsokrs that dont suckcustomer success strategy saas metrics churn metrics and traps saas margins stock and equity pricing how to price your saas product saas growth",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/operating_principals.md"
+	},{
+		"url": "/management/org_chart/",
+		"title": "Org Chart",
+		"topLevel": false,
+		"text": "title org chart",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/org_chart.md"
+	},{
+		"url": "/management/performance_reviews/",
+		"title": "Performance Reviews",
+		"topLevel": false,
+		"text": "title performance reviewsto categorizeplaybook for running sprintsattention as a software developer habits with seasonalityengineering strategyacute vs chronic issues",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/performance_reviews.md"
+	},{
+		"url": "/management/product/",
+		"title": "Product",
+		"topLevel": false,
+		"text": "title product on writing product roadmaps what why how a guide to engineering project initiation state the problem product strategy",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/product.md"
+	},{
+		"url": "/meta/alfred-workflow/",
+		"title": "Alfred Workflow",
+		"topLevel": false,
+		"text": "title alfred workflow downloaddownload the intersect alfred workflow here config base_url the domain of the site eg  project_path the local path of the project eg usersrobbintersect keywords int s search the contents of all pages int l search all link titles int clear clear the search cache screenshotssearching content in intersectintersectcontentsearchpngsearching links in intersectintersectlinksearchpng",
+		"parents": ["Meta"
+			],
+		"filePath": "/src/pages/meta/alfred-workflow/index.md"
+	},{
+		"url": "/meta/logo-ideas/",
+		"title": "Logo Ideas",
+		"topLevel": false,
+		"text": "title logo ideassome of the ideas and iterations on the logo for this project drawn using method drawstyle intersectlogoidea  width 100px height 100px styleimg srcintersectassetsimglogoslogo1svg classintersectlogoideaimg srcintersectassetsimglogoslogo2svg classintersectlogoideaimg srcintersectassetsimglogoslogo3svg classintersectlogoideaimg srcintersectassetsimglogoslogo4svg classintersectlogoideaimg srcintersectassetsimglogoslogo5svg classintersectlogoideaimg srcintersectassetsimglogoslogo6svg classintersectlogoideaimg srcintersectassetsimglogoslogo7svg classintersectlogoideaimg srcintersectassetsimglogoslogo8svg classintersectlogoideaimg srcintersectassetsimglogoslogo9svg classintersectlogoideaimg srcintersectassetsimglogoslogo10svg classintersectlogoideaimg srcintersectassetsimglogoslogo11svg classintersectlogoideaimg srcintersectassetsimglogoslogo12svg classintersectlogoideaimg srcintersectassetsimglogoslogo13svg classintersectlogoideaimg srcintersectassetsimglogoslogosvg classintersectlogoidea links responsive icons article responsive icons responsive logos",
+		"parents": ["Meta"
+			],
+		"filePath": "/src/pages/meta/logo-ideas.md"
+	},{
+		"url": "/meta/readme/",
+		"title": "Readme",
+		"topLevel": false,
+		"text": "title readmea personal wiki built with eleventy installationclone the repo then make a copy of src_eleventy_dataconfigjsonexample and name it configjson here you can set the site name github repo url and your fathom tracking code npm install npm start open localhost8080 and have at itif you want to fetch fathom popular pages on build copy envexample as env and add your fathom_api_key pages are only fetched once per day and cached using cache assets content and directory structureall of the source files of the content are plain markdown files these must be markdown for the headings id links to work but they can in theory be njk or anything else eleventy supports the file structure looks like thistxtintersect  topic   subtopicwithsubtopics   subsubtopicmd   indexmd   subtopicmd   indexmdthese can be infinitely nested thanks to eleventy navigation features syntax highlighting with prismjs table of contents generation see below search content and links highlight search queries on navigation popular pages via fathom api see stats pagemetastats recently updated pages based on git commits see introduction searchsearch has two modes page content or link titles the default is page content to search links start the query with l  eg l my query keyboard shortcuts kbdkbd show and focus the search modal kbdesckbd close the search modalclear search highlights kbddown kbd or kbdtabkbd  kbdup kbd or kbdshift kbd kbdtabkbd to navigate search results eleventy setupview more about static site generatorswebdevstaticsitegeneratorsthis site is built with eleventy and a number of custom scripts if youve used eleventy before you might look at the source code and wonder why everything is _slightly_ different than a normal setup i wanted to keep all the content in one single folder so if i ever decide to move away from this setup its not entangled with the way eleventy worksi wanted to use as little front matter as possible for the pages so they only have a title set everything else is done with eleventy computed data collection linksview linksjs on githubthis collection finds all of the links in all pages for use in the search it also counts how many links for each domain there are which is used on the stats pagemetastatsjs collectionslinks charts  examplecom 12 testcom 10  links   title a cool website href  sourcetitle websites  the title of the page the link is on sourceurl websites  the slug of the page the link is on   collection pagesview pagesjs on githubthis collection is used for navigation breadcrumbs and search it orders the pages alphabetically but with featured pages at the top like metameta it also generates a page index for fixing an issue with ordering in navigationwebdevstaticsitegeneratorseleventyautomaticorderingforeleventynavigationjs collectionspages data   array of pages standard collection pageindex  pageslug  order 12  this index is used for eleventynavigation title cool page  useful for getting a page title eg when working out parent pages just from the page url   computed dataview pagesjs on githubthis generates the navigation plugin data counts the links on the page and makes a link to the source for the page on github table of contents rendererview rendertoc on githubthis is a custom copy of jdsteinbacheleventyplugintoc which fixes a bug with unordered lists this pr has been around for a while so i wasnt expecting it to be fixed any time soon there are a lot of forks of the library but they all go in different directions and i didnt think it was worth creating yet another fork navigation renderer view rendernavigation on githubi had a lot of requirements for the navigation so the renderer generates it exactly as i need instead of using the built in shortcodes acknowledgements nikita voloboev for the idea eleventy for making this easy pure css side menu layout markdown sindresorhusgithubmarkdowncss for the main content css markdownitimsize for markdown image size support markdownitanchor for the anchor links on headings vscode theme for syntax highlighting by andrew lock for the code highlighting squash filter by phil hawksworth markjs for the search query highlighting icons softies icons by robbie pearce feather icons for the chevron icons font awesome github icon read the docs idiotbecause i didnt read the docs first i implemented a bunch of things like my own cachingprogrammingjscaching and my own navigation im adding it below just because it was an interesting problem to solvepagedatajsjssquashcontent  functiontext  this still exists in the codemoduleexports  functiondata  let collection  dataitems toplevel   secondlevel   thirdlevel   featuredtoplevel   const featured    meta  const ignored   _eleventy searchjson  collection  collectionsortab  atemplatedatacachepageurl  btemplatedatacachepageurl 1  btemplatedatacachepageurl  atemplatedatacachepageurl 1  0 collectionforeachc   const url  ctemplatedatacachepageurl const pages  urlsplitfilteru  u const title  ctemplateinputcontentsplitn0replace   const squashedcontent  squashcontentctemplateinputcontentreplacewsgi  const rawcontent  ctemplateinputcontent const toplevelkey  pages0   const isfeatured  featuredincludestoplevelkey const istoplevel  pageslength  1 const issecondlevel  pageslength  2 const isthirdlevel  pageslength  3 const topsection  isfeatured featuredtoplevel  toplevel const filepath  ctemplateparsedpathreplace  if ignoredincludestoplevelkey return let parent  null if issecondlevel  parent  toplevelkey  else if isthirdlevel  parent  toplevelkeypages1  if istoplevel  topsectionurl    data   else if issecondlevel  secondlevelurl    data   else if isthirdlevel  thirdlevelurl    data    objectvaluesthirdlevelmaptl   secondleveltlparentpagespushtl  objectvaluessecondlevelmapsl   toplevelslparent toplevelslparentpagespushsl  featuredtoplevelslparentpagespushsl  const mergeddata   featuredtoplevel toplevel secondlevel thirdlevel  const searchapi   objectvaluesfeaturedtoplevel toplevel foreachs   if sparent return searchapipushs spagesforeachp   searchapipush p parenttitle stitle  ppagesforeachpp   searchapipush pp parenttitle ptitle     return  keyed mergeddata search searchapi rendernavigationjsjsmoduleexports  functiondata  pagedata  data0 current  data1 let links   objectvaluespagedataforeachtl   if tlparent return const tlisactive  tlurl  current const tlshouldbeopen  currentstartswithtlurl const tlhaspages  tlpageslength  0 let output  li tlisactive  tlshouldbeopen classopen   a tlisactive classactive  hreftlurl tltitle atlhaspages div classtogglerdiv   if tlhaspages  output ul   second level pages tlpagesforeachsl   const slisactive  slurl  current const slhaspages  slpageslength  0 output  li a slisactive classactive  hrefslurl sltitle a if slhaspages  output ul   bottom level pages slpagesforeachbl   const blisactive  blurl  current output  li a blisactive classactive  hrefblurl bltitle ali  if slhaspages  output ul  output  li  if tlhaspages  output ul  links  outputli  return ullinksul",
+		"parents": ["Meta"
+			],
+		"filePath": "/src/pages/meta/readme.md"
+	},{
+		"url": "/meta/sitemap/",
+		"title": "Sitemap",
+		"topLevel": false,
+		"text": "title sitemap collectionspagesdata  eleventynavigation  eleventynavigationtohtml sitemapxmlsitemapxml",
+		"parents": ["Meta"
+			],
+		"filePath": "/src/pages/meta/sitemap.md"
+	},{
+		"url": "/meta/stats/",
+		"title": "Stats",
+		"topLevel": false,
+		"text": "title statstemplateengineoverride njkmd topics set navpages  collectionspagesdata  eleventynavigation   navpageslength  topics  collectionspagesdatalength  pages links  collectionslinkdatalinkslength  links  collectionslinkdatachartslength  unique sites top 25 linked sitesstylestatstablecell  verticalalign middlestatstableexternal  float right marginleft 10pxstatstableexternal svg  width15px height15pxstyletable thead thsiteth thlinksth thead tbody  for domain in collectionslinkdatachartssplice0 25  tr td classstatstablecella classdomainsearch href https domaindomain  target_blank relnoopener domaindomain a a classstatstableexternal href https domaindomain  target_blank relnoopenersvguse xlinkhrefexternalusesvga td td styletextalign center  domaincount  td tr  endfor  tbodytable",
+		"parents": ["Meta"
+			],
+		"filePath": "/src/pages/meta/stats.md"
+	},{
+		"url": "/vanagon/",
+		"title": "Vanagon",
+		"topLevel": true,
+		"text": "title vanagon vans",
+		"parents": [],
+		"filePath": "/src/pages/vanagon/index.md"
+	},{
+		"url": "/vanagon/electronics/",
+		"title": "Electronics",
+		"topLevel": false,
+		"text": "title electronics stereovanagon 9691 fuse panel and radio know howthe samba  sereo wiring hard start relaythe samba  hard start relay with gowesty bitsthe samba  hard start relay help othervanagon instrument cluster w tach retrofitvanagon aux battery wiring diagram",
+		"parents": ["Vanagon"
+			],
+		"filePath": "/src/pages/vanagon/electronics/index.md"
+	},{
+		"url": "/vanagon/exterior/",
+		"title": "Exterior",
+		"topLevel": false,
+		"text": "title exterior paintvanagon exterior colors locksburley motor sports  door handles and exterior locksthe bus depot  door handles and locksvanagon lock cylindar matching keysdubkeyshow to repair or rekey door locks tiresvanagon tire specs poptopcleaning and waterproofing canvas tentwestfalia popup roof refurbishmentthe samba  getting the 1986 westy back into shapethe samba  87 westy syncro tdi conversion and restorationlots of picsthe samba  vanagon t3 westfalia roof renovation w solarthe samba  flocking pop toptransporter magazine  painting the westfalia fiberglass pop top with interlux paintpoptop ceiling moldcleaningrestorationheadliner material for interior of poptopsailrite hull linerpoptop sizevanagon  pop top canvas swap rustrust never sleeps",
+		"parents": ["Vanagon"
+			],
+		"filePath": "/src/pages/vanagon/exterior/index.md"
+	},{
+		"url": "/vanagon/interior/",
+		"title": "Interior",
+		"topLevel": false,
+		"text": "title interior cabinetsthe samba  newer larger kitchen drawer in older vandimensionsmore dimensions consolesetsy  center console seatbelts3 point seatbelts seatsbench seat covers vanagon  bay window bus front seats pair curtainsnew curtainsadding curtains to a noncampersewfine retrofit curtain rod kitsewfine installation instructionssewfine installation picturesnew curtains totally changed our vans vibe curtain patterns flooringflooring  measure twice cut once dead link29 sqft for flooring size rust repairfor removing the seal i just slipped a razor blade between the aluminum frame and the seal and ran it gently around the edge came out quick and clean i used a double suction cup handle thing from amazon which helped in removing and seating it by myselfi picked up most of the tips and tricks from these three videos although 2 are about windshields the approach was the samewindshield replacement and rust repair gowesty windshield replacement installing the side window ",
+		"parents": ["Vanagon"
+			],
+		"filePath": "/src/pages/vanagon/interior/index.md"
+	}],
+"links" : [{
+		"title": "/r/digitalgardens",
+		"link": "https://www.reddit.com/r/DigitalGardens/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "10 Habits That Help Me as a Manager",
+		"link": "http://www.martymatheny.com/blog/2020/10/2/10-habits-that-help-me-as-a-manager",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "10 best practices for remote development",
+		"link": "https://m-cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "13 questions to get more feedback from your team",
+		"link": "https://marcusblankenship.com/13-questions-to-get-more-feedback-from-your-team/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "3 point Seatbelts",
+		"link": "https://blotcdn.com/blog_b43c882cbfb74d38aa56c2ac00888c0a/_image_cache/2ace15a4-f0de-460d-bccf-1f00fff93d59.jpg",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "3-2-1-Oh",
+		"link": "https://andrewspittle.com/2016/02/23/a-note-on-feedback/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "5 No Code Digital Gardens",
+		"link": "https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "A Brief History &amp; Ethos of the Digital Garden",
+		"link": "https://maggieappleton.com/garden-history",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "A People Leader’s Guide to Active Listening",
+		"link": "https://buffer.com/resources/active-listening/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "A framework for balancing and budgeting engineering resourcing",
+		"link": "https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Adding curtains to a non-camper",
+		"link": "https://www.vanagonhacks.com/2014/11/adding-curtains-to-a-non-camper-vanagon/",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Advice for a new executive",
+		"link": "https://larahogan.me/blog/advice-for-new-executive/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Are you out of alignment?",
+		"link": "https://www.elidedbranches.com/2018/03/are-you-out-of-alignment.html",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Attention as a Software Developer ",
+		"link": "https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
+		"title": "BRAINSTORMING TEAM AND MANAGER EXPECTATIONS",
+		"link": "https://larahogan.me/resources/Manager-Readme-Expectations.pdf",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Bench seat covers Vanagon &amp; Bay Window Bus Front Seats: PAIR",
+		"link": "https://smallcar.com/vanagon-bus-upgrades/climate-and-comfort/interior-parts",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Building a Growth Framework",
+		"link": "https://blog.songkick.com/building-a-growth-framework-2464435e9e46",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Burley Motor Sports – Door Handles and Exterior Locks",
+		"link": "https://burleymotorsports.net/product/vanagon-door-handles-and-ignition-lock-cylinder-bundle/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Cache Assets",
+		"link": "https://www.11ty.dev/docs/plugins/cache/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Catalysts and Psychological Safety",
+		"link": "https://www.tombartel.me/blog/catalysts-psychological-safety/",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "Chuck",
+		"link": "https://en.wikipedia.org/wiki/Chuck_(TV_series)",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "Churn Metrics and Traps",
+		"link": "https://inc42.com/resources/fooled-by-software-as-a-service-metrics-customer-churn/",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "Cleaning and Waterproofing Canvas Tent",
+		"link": "https://campwestfalia.com/cleaning-and-waterproofing-your-westfalia-canvas-tent/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Cool URIs don&#39;t change",
+		"link": "https://www.w3.org/Provider/Style/URI",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Creating a Career Ladder for Engineers",
+		"link": "https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Customer Success Strategy",
+		"link": "https://medium.com/@jproco/how-startups-develop-a-customer-success-strategy-563c9c2c6f8e",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "DataDIGEST’s professional technical ladders",
+		"link": "https://dpdevilliers.com/tag/the-ladder/",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Dendron",
+		"link": "https://www.dendron.so/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Digital Gardens",
+		"link": "https://www.reddit.com/r/DigitalGardens/top/?t=all",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Digital Ocean",
+		"link": "https://www.digitalocean.com/?refcode=8e1d8283bd20",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "Dimensions",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?p=6964149#6964149",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Download the Intersect Alfred Workflow here",
+		"link": "https://github.com/rknightuk/alfred-workflows/blob/main/workflows/intersect",
+		"domain": "",
+		"source": {
+			"title": "Alfred Workflow",
+			"url": "/meta/alfred-workflow/"
+		}
+	},{
+		"title": "Dropbox Engineering Career Framework",
+		"link": "https://dropbox.github.io/dbx-career-framework/m3_engineering_manager.html",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "DubKeys",
+		"link": "http://dubkeys.com/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "EXTERNAL Engineering Career Tracks",
+		"link": "https://docs.google.com/spreadsheets/d/1weNoeSUfHYOHy9sHKad_ax6qrVXNFlP4ieTwaRll70M/edit#gid=668888240",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Eleventy",
+		"link": "https://11ty.dev",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Eleventy",
+		"link": "https://www.11ty.dev",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Eleventy",
+		"link": "https://www.11ty.dev/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Eleventy Computed Data",
+		"link": "https://www.11ty.dev/docs/data-computed/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Eleventy Navigation",
+		"link": "https://www.11ty.dev/docs/plugins/navigation/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Eleventy Notes",
+		"link": "https://eleventy-notes.sandroroth.com/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Engineering Career Development at Etsy",
+		"link": "https://www.etsy.com/codeascraft/engineering-career-development-at-etsy/",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Engineering Growth Framework",
+		"link": "https://medium.com/s/engineering-growth-framework",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Engineering Ladders at Meetup",
+		"link": "https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Engineering Succes",
+		"link": "https://www.forbes.com/sites/forbestechcouncil/2019/08/05/three-engineering-performance-metrics-the-business-can-understand/#268c7b53704d",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "Engineering growth: introduction",
+		"link": "https://medium.com/s/engineering-growth-framework/engineering-growth-introduction-8ba7b78c8d6c",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Engineering growth: tracks",
+		"link": "https://gist.github.com/david206/b8dceddd687bb2c60805c9669cc89eaa",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Engineering strategy.",
+		"link": "https://lethain.com/engineering-strategy/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Essential Meetings to Have With Your People as a Manager",
+		"link": "https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Etsy – Center Console",
+		"link": "https://www.etsy.com/listing/926754413/center-console-for-vw-vanagon-t3",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Example spreadsheet for compensation calibration",
+		"link": "https://docs.google.com/spreadsheets/d/1y2MAqK8XRUboycqcjqWYQZZmtirkxHE6kP_rsmDg-kM/htmlview#",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "FEEDBACK EQUATION",
+		"link": "https://larahogan.me/blog/feedback-equation/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "Feather Icons",
+		"link": "https://feathericons.com/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "First 30 Days",
+		"link": "http://larahogan.github.io/blog/first-30-days-new-role/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Five questions a manager should ask themselves every week",
+		"link": "https://www.range.co/blog/five-questions-a-manager-should-ask-themselves",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Font Awesome GitHub icon",
+		"link": "https://fontawesome.com/v5.15/icons/github",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Front Matter",
+		"link": "https://www.11ty.dev/docs/data-frontmatter/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "GitJournal/GitJournal: Mobile first Note Taking integrated with Git",
+		"link": "https://github.com/GitJournal/GitJournal",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "GitLab About KPIs",
+		"link": "https://about.gitlab.com/blog/2020/08/27/measuring-engineering-productivity-at-gitlab/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "GitLab Engineering KPIs",
+		"link": "https://about.gitlab.com/handbook/engineering/performance-indicators/#engineering-non-headcount-plan-vs-actuals",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "Gitbook",
+		"link": "https://www.gitbook.com",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "Good Interview Questions",
+		"link": "https://thagomizer.com/blog/2018/09/12/good-interview-questions.html",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "HOW TO GET HELPFUL, ACTIONABLE FEEDBACK FROM YOUR COLLEAGUES",
+		"link": "https://larahogan.me/blog/get-feedback-from-colleagues/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "Headliner material for interior of pop-top",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?t=576423&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "How I stopped being awful at managing: Leadership lessons from a Dev",
+		"link": "https://www.hackernoon.com/how-i-stopped-being-awful-at-managing-leadership-lessons-from-a-dev-d1bfebcb3a21",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "How Individuals Advance at Buffer, Without Becoming Managers",
+		"link": "https://buffer.com/resources/career-framework/",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "How MailChimp Does Recruiting",
+		"link": "https://mailchimp.com/culture/how-mailchimp-does-recruiting/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "How This Head of Engineering Boosted Transparency at Instagram",
+		"link": "https://review.firstround.com/how-this-head-of-engineering-boosted-transparency-at-instagram",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "How To Write Investor Updates",
+		"link": "https://dcgross.com/investor-updates/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "How We Interview Engineers at CircleCI",
+		"link": "https://circleci.com/blog/how-we-interview-engineers-at-circleci/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "How do Individual Contributors Get Stuck?",
+		"link": "https://skamille.medium.com/how-do-individual-contributors-get-stuck-63102ba43516",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "How to Price your SaaS product",
+		"link": "https://www.lennyrachitsky.com/p/saas-pricing-strategy",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "How to Successfully Hand Over Systems",
+		"link": "https://developers.soundcloud.com/blog/how-to-successfully-hand-over-systems",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "How to fail as a new engineering manager",
+		"link": "https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "How to influence company culture",
+		"link": "https://m.signalvnoise.com/how-to-influence-company-culture/",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "How to: Repair or re-key door locks",
+		"link": "https://www.vwvortex.com/threads/how-to-repair-or-re-key-door-locks.3496179/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Instapaper",
+		"link": "https://instapaper.com",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Interview Guide",
+		"link": "https://careerdevelopment.princeton.edu/sites/g/files/toruqf1041/files/documents/interview_guide_5.pdf",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "Jason Scott",
+		"link": "https://twitter.com/textfiles",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "KasperZutterman/Second-Brain: A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱",
+		"link": "https://github.com/KasperZutterman/Second-Brain",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Learnings from six months as a first-time engineering manager",
+		"link": "https://charlax.tumblr.com/post/74917727213/learnings-from-six-months-as-a-first-time",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Lessons from Keith Rabois Essay 3: How to be an Effective Executive",
+		"link": "http://delian.io/lessons-3",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Lessons from Keith Rabois Essay 3: How to be an Effective Executive",
+		"link": "https://delian.io/lessons-3",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Lessons from Keith Rabois Essay 4: How to run an Effective Board Meeting and make an Effective Board Deck",
+		"link": "http://delian.io/lessons-4",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "Loop",
+		"link": "https://assets.proof.pub/2056/firstround/zMQIHPr5RmasIE4Y5ZkQ_Screen%20Shot%202015-07-16%20at%2011.43.16%20AM.png",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "MaggieAppleton/digital-gardeners",
+		"link": "https://github.com/MaggieAppleton/digital-gardeners",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Maker&#39;s Schedule, Manager&#39;s Schedule ",
+		"link": "http://paulgraham.com/makersschedule.html",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Meetings Are Not For You",
+		"link": "https://randsinrepose.com/archives/meetings-are-not-for-you/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Merlin Manns&#39;s Wisdom Project (Draft)",
+		"link": "https://gist.github.com/merlinmann/09af1df28d76ba028b0999f66945fd61",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Method Draw",
+		"link": "https://editor.method.ac/",
+		"domain": "",
+		"source": {
+			"title": "Logo Ideas",
+			"url": "/meta/logo-ideas/"
+		}
+	},{
+		"title": "More Dimensions",
+		"link": "https://shufti.files.wordpress.com/2009/11/westy1.pdf",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "My homemade wiki - All this",
+		"link": "https://leancrew.com/all-this/2021/08/my-homemade-wiki/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "NEW CURTAINS TOTALLY CHANGED OUR VAN’S VIBE Curtain Patterns",
+		"link": "http://lietco.com/van-life/how-to-make-your-own-westfalia-curtains/",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Never Take Money from a VC",
+		"link": "http://feedproxy.google.com/~r/siliconflorist/~3/lWbH2szt5Qg/",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "Nikita Voloboev",
+		"link": "https://github.com/nikitavoloboev/knowledge",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "OKRs That Don&#39;t Suck",
+		"link": "https://quietstars.com/lax2020/",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "ONSITE INTERVIEW LOOP TEMPLATE",
+		"link": "https://larahogan.me/blog/onsite-interview-loop-template/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "Of Course Psychological Safety…But How?",
+		"link": "https://medium.com/@johnpcutler/of-course-psychological-safety-but-how-21adb8d97ba7",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "On Being A Principal Engineer",
+		"link": "https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "On Writing Product Roadmaps",
+		"link": "https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c",
+		"domain": "",
+		"source": {
+			"title": "Product",
+			"url": "/management/product/"
+		}
+	},{
+		"title": "Operating Calendar",
+		"link": "https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "Our 6 Must Reads for Managers to Give Feedback That Helps People Grow",
+		"link": "http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/?email=mattfinlayson@gmail.com&amp;sdate=09/12/2017&amp;name=",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Phase 1 of Hiring, Getting from 0-30",
+		"link": "https://cate.blog/2019/01/23/phase-1-of-hiring-getting-from-0-30/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "Pinterest Founder Ben Silbermann’s Lessons on Decision Making, Values, and Taking Time for Yourself",
+		"link": "https://www.linkedin.com/pulse/pinterest-founder-ben-silbermanns-lessons-decision-making-casnocha/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Pop-Top Ceiling: Mold/Cleaning/Restoration",
+		"link": "https://gowesty.com/blogs/article-library/pop-top-ceiling-mold-cleaning-restoration",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "PopTop Size",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?t=543584",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "PrismJS",
+		"link": "https://prismjs.com",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Psycological Safety in Operation Teams",
+		"link": "https://www.usenix.org/publications/login/winter2017/looney",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "Pure CSS side menu layout",
+		"link": "https://purecss.io/layouts/side-menu/#about",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "RUNNING A MANAGER FEEDBACK CYCLE",
+		"link": "https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "Redpoint GTM Survey",
+		"link": "https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&amp;loop=false&amp;start=false&amp;slide=id.p",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Responsive Icons",
+		"link": "http://responsiveicons.co.uk/",
+		"domain": "",
+		"source": {
+			"title": "Logo Ideas",
+			"url": "/meta/logo-ideas/"
+		}
+	},{
+		"title": "Responsive Icons Article",
+		"link": "https://responsivedesign.is/articles/responsive-icons/",
+		"domain": "",
+		"source": {
+			"title": "Logo Ideas",
+			"url": "/meta/logo-ideas/"
+		}
+	},{
+		"title": "Responsive Logos",
+		"link": "http://responsivelogos.co.uk/",
+		"domain": "",
+		"source": {
+			"title": "Logo Ideas",
+			"url": "/meta/logo-ideas/"
+		}
+	},{
+		"title": "Rust Never Sleeps",
+		"link": "https://larry-saavedra.squarespace.com/automotive/2020/6/25/dont-be-intimidated-by-bodywork",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "SOCIALLY VISIBLE PROGRESS",
+		"link": "https://larahogan.me/blog/socially-visible-progress/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "SaaS Margins",
+		"link": "https://blossomstreetventures.medium.com/saas-margins-where-they-should-be-ad90c44c1536",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "Sailrite Hull Liner",
+		"link": "https://www.sailrite.com/HullBlanket-Headliner-Hull-Liner-Carpet-Type-Sand-M38-72",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Scripts for my homemade wiki - All this",
+		"link": "https://leancrew.com/all-this/2021/08/scripts-for-my-homemade-wiki/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Second Brain",
+		"link": "https://www.buildingasecondbrain.com/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "Sewfine Installation Instructions",
+		"link": "https://sewfineproducts.com/Retro-Fit-Curtain-Rod-Installation",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Sewfine Installation Pictures",
+		"link": "https://sewfineproducts.com/Retrofit-Curtain-Rods-Bay-and-Vanagon",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Sewfine Retrofit Curtain Rod Kit",
+		"link": "https://sewfineproducts.com/Vanagon-New-Items",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Softies Icons",
+		"link": "https://robbiepearce.com/softies/",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Software Development/Leadership Ladder, multi-track, public",
+		"link": "https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=2",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Some common hiring manager mistakes.",
+		"link": "https://lethain.com/common-hiring-manager-mistakes/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "Squash filter by Phil Hawksworth",
+		"link": "https://github.com/philhawksworth/hawksworx.com/blob/8c96ba2541c8fd6fe6f521cdb5e17848c231636c/src/site/_filters/squash.js",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "State the Problem",
+		"link": "https://lamport.azurewebsites.net/pubs/state-the-problem.pdf",
+		"domain": "",
+		"source": {
+			"title": "Product",
+			"url": "/management/product/"
+		}
+	},{
+		"title": "Steve Jobs’ Secret for Eliciting Questions, Overheard at a San Francisco Cafe",
+		"link": "https://medium.com/the-mission/steve-jobs-secret-for-eliciting-questions-overheard-at-a-san-francisco-cafe-80b1af67433",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "Stripe’s Will Larson on Designing a Performance Management System from Scratch",
+		"link": "https://dzone.com/articles/stripes-will-larson-on-designing-a-performance-man",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "TEAM LEADER VENN DIAGRAM",
+		"link": "https://larahogan.me/blog/team-leader-venn-diagram/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "THE FOUR FUNCTIONS OF AN EXECUTIVE TEAM",
+		"link": "https://www.palomamedina.com/blog/execteamfunctions",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Team Reviews",
+		"link": "https://medium.com/@marcprecipice/team-reviews-4b395bee61c9",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "The 32 best employee engagement questions with the highest response rates",
+		"link": "https://knowyourteam.com/blog/2019/05/18/the-32-best-employee-engagement-questions/",
+		"domain": "",
+		"source": {
+			"title": "Feedback &amp; Reviews",
+			"url": "/management/feedback/"
+		}
+	},{
+		"title": "The Branching Career Path",
+		"link": "https://medium.com/ux-career/the-branching-career-path-63a4ff592e29",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "The Bus Depot – Door Handles and Locks",
+		"link": "https://www.busdepot.com/body-exterior/tailgate-or-side-cargo-door-or-door-window/door-handle-or-lock",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Curious Transition to Becoming an Engineering Manager",
+		"link": "https://www.pluralsight.com/blog/teams/transition-to-engineering-manager",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "The Developer / Manager Feedback Loop Difference",
+		"link": "https://marcgg.com/blog/2019/02/04/management-feedback-loop/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "The Indispensable Document for the Modern Manager",
+		"link": "https://review.firstround.com/the-indispensable-document-for-the-modern-manager",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "The Rands Test",
+		"link": "https://randsinrepose.com/archives/the-rands-test/",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "The Samba – 87 Westy Syncro TDI conversion and restoration~lots of pics",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?postdays=0&amp;postorder=asc&amp;start=180&amp;t=641481",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Samba – Flocking Pop Top!",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?t=563664&amp;start=20&amp;postdays=0&amp;postorder=asc&amp;highlight=",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Samba – Getting the 1986 “Westy” back into shape!",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?t=532045&amp;start=20&amp;postdays=0&amp;postorder=asc&amp;highlight=",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Samba – Hard Start Relay Help",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?p=6230350&amp;sid=2123cb03e05df0da0800226e7cb400fe",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "The Samba – Hard Start Relay with GoWesty bits",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?t=747631",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "The Samba – Newer, larger kitchen drawer in older van?",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?start=0&amp;t=697589",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "The Samba – Sereo Wiring",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?p=8192673",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "The Samba – Vanagon T3 Westfalia roof renovation w/ solar",
+		"link": "https://www.thesamba.com/vw/forum/viewtopic.php?highlight=solar+roof&amp;postdays=0&amp;postorder=asc&amp;start=20&amp;t=731545",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Things I&#39;ve learned transitioning from engineer to engineering manager",
+		"link": "https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "This 90-Day Plan Turns Engineers into Remarkable Managers",
+		"link": "http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Transporter Magazine – Painting the Westfalia Fiberglass Pop Top with Interlux Paint",
+		"link": "https://transportermagazine.com/2018/04/25/painting-westfalia-fiberglass-pop-top-interlux-paint/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "UPDATED: WORK AT DIFFERENT MANAGEMENT LEVELS",
+		"link": "https://larahogan.me/blog/manager-levels-redux/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "VSCode theme for syntax highlighting by Andrew Lock",
+		"link": "https://andrewlock.net",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "Vanagon 96-91 Fuse Panel and Radio Know How",
+		"link": "https://intrepidoverland.com/vanagon-86-91-fuse-panel-and-radio-know-how/",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "Vanagon Aux Battery Wiring Diagram#",
+		"link": "https://wiringall.com/vanagon-auxiliary-battery-wiring-diagram.html",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "Vanagon Exterior Colors",
+		"link": "https://www.thesamba.com/vw/archives/lit/1982_00_vanagon/pages13-14.jpg",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Vanagon Instrument Cluster w/ Tach Retrofit",
+		"link": "https://oldvolkshome.wetwesties.org/late_van_cluster_install.pdf",
+		"domain": "",
+		"source": {
+			"title": "Electronics",
+			"url": "/vanagon/electronics/"
+		}
+	},{
+		"title": "Vanagon Tire Specs",
+		"link": "http://oldbluesblog.com/files/VanagonTireSpecs.pdf",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Vanagon — pop top canvas swap",
+		"link": "https://shufti.blog/2013/07/01/vanagon-pop-top-canvas-swap/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Venture Kills",
+		"link": "https://www.youtube.com/channel/UCpQD0J3IYjmLioAcaM7_DqQ?feature=emb_ch_name_ex",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "View `links.js` on Github",
+		"link": "https://github.com/rknightuk/intersect/blob/main/src/_eleventy/_filters/collections/links.js",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "View `pages.js` on Github",
+		"link": "https://github.com/rknightuk/intersect/blob/main/src/_eleventy/_filters/collections/pages.js",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "View `pages.js` on Github",
+		"link": "https://github.com/rknightuk/intersect/blob/main/src/pages/pages.11tydata.js",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "View `renderNavigation` on Github",
+		"link": "https://github.com/rknightuk/intersect/blob/main/src/_eleventy/renderers/renderNavigation.js",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "View `renderTOC` on Github",
+		"link": "https://github.com/rknightuk/intersect/blob/main/src/_eleventy/renderers/renderTOC",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "View the source on GitHub",
+		"link": "https://github.com/rknightuk/intersect",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "We Don&#39;t Sell Saddles Here",
+		"link": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Week In Review Comms",
+		"link": "https://larahogan.me/blog/week-in-review/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Westfalia Pop-Up Roof Refurbishment",
+		"link": "https://campwestfalia.com/westfalia-pop-up-roof-refurbishment/",
+		"domain": "",
+		"source": {
+			"title": "Exterior",
+			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "What do executives do, anyway?",
+		"link": "https://apenwarr.ca/log/20190926",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "What does a VP of Engineering do?",
+		"link": "https://medium.com/@dandemeyere/what-does-a-vp-of-engineering-do-75da2086f74d",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "What we&#39;ve learned about hiring engineering managers",
+		"link": "https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/",
+		"domain": "",
+		"source": {
+			"title": "Recruiting, Interviewing, and Hiring",
+			"url": "/management/hiring/"
+		}
+	},{
+		"title": "What, Why, How - A guide to engineering project initiation",
+		"link": "https://sre.google/resources/practices-and-processes/what-why-how/",
+		"domain": "",
+		"source": {
+			"title": "Product",
+			"url": "/management/product/"
+		}
+	},{
+		"title": "Who I want to work for",
+		"link": "https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202",
+		"domain": "",
+		"source": {
+			"title": "Culture",
+			"url": "/management/culture/"
+		}
+	},{
+		"title": "Zettelkasten",
+		"link": "https://en.wikipedia.org/wiki/Zettelkasten",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "a lot of forks of the library",
+		"link": "https://github.com/jdsteinbach/eleventy-plugin-toc/network/members",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "a lot of sites",
+		"link": "https://en.wikipedia.org/wiki/Wikipedia:Link_rot",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "acute vs chronic issues",
+		"link": "https://medium.com/@johnpcutler/acute-vs-chronic-product-issues-a4aa6a4e606",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
+		"title": "add your `FATHOM_API_KEY`",
+		"link": "https://usefathom.com/api",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "binyamin/eleventy-garden: A starter site for building a mind garden with eleventy",
+		"link": "https://github.com/binyamin/eleventy-garden",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "bug with unordered lists",
+		"link": "https://github.com/jdsteinbach/eleventy-plugin-toc/pull/20",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "https://architectelevator.com/transformation/debugging-architect/",
+		"link": "https://architectelevator.com/transformation/debugging-architect/",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "https://async.twist.com/decision-making-flat-organization/",
+		"link": "https://async.twist.com/decision-making-flat-organization/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://avivbenyosef.com/managing-non-feature-work-part-1failed-approaches/",
+		"link": "https://avivbenyosef.com/managing-non-feature-work-part-1failed-approaches/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://blog.alexewerlof.com/p/tech-debt-day?utm_source=labnotes.org",
+		"link": "https://blog.alexewerlof.com/p/tech-debt-day?utm_source=labnotes.org",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://blog.pragmaticengineer.com/equity-for-software-engineers/amp/",
+		"link": "https://blog.pragmaticengineer.com/equity-for-software-engineers/amp/",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
+		"link": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
+		"title": "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/",
+		"link": "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://chelseatroy.com/2018/05/04/questions-for-prospective-managers/",
+		"link": "https://chelseatroy.com/2018/05/04/questions-for-prospective-managers/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions",
+		"link": "https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d",
+		"link": "https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "https://dayzero.substack.com/p/do-you-want-to-build-a-snowflake",
+		"link": "https://dayzero.substack.com/p/do-you-want-to-build-a-snowflake",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&amp;amp;loop=false&amp;amp;start=false&amp;amp;slide=id.g8ab165be3e_1_46",
+		"link": "https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&amp;loop=false&amp;start=false&amp;slide=id.g8ab165be3e_1_46",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://engineering-management.space/post/software-engineering-kpis/",
+		"link": "https://engineering-management.space/post/software-engineering-kpis/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://equity.ltse.com/calculators/tldr-stock-options",
+		"link": "https://equity.ltse.com/calculators/tldr-stock-options",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/",
+		"link": "https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/",
+		"link": "https://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://fractio.nl/2015/07/30/management-skills-for-new-leaders/",
+		"link": "https://fractio.nl/2015/07/30/management-skills-for-new-leaders/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://fractio.nl/2016/01/25/help-i-have-just-been-made-a-manager/",
+		"link": "https://fractio.nl/2016/01/25/help-i-have-just-been-made-a-manager/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://fractio.nl/management/",
+		"link": "https://fractio.nl/management/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://hackernoon.com/renovating-teams-3fd708cdac74",
+		"link": "https://hackernoon.com/renovating-teams-3fd708cdac74",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive",
+		"link": "https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://hecate.co/",
+		"link": "https://hecate.co/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://hugodias.substack.com/p/event-loops-for-managers",
+		"link": "https://hugodias.substack.com/p/event-loops-for-managers",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://infraeng.dev/business-review-template/",
+		"link": "https://infraeng.dev/business-review-template/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://invertedpassion.com/your-companys-org-chart-is-more-important-than-you-think/",
+		"link": "https://invertedpassion.com/your-companys-org-chart-is-more-important-than-you-think/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "https://jvns.ca/blog/brag-documents/",
+		"link": "https://jvns.ca/blog/brag-documents/",
+		"domain": "",
+		"source": {
+			"title": "an Engineer",
+			"url": "/management/on_being/an_engineer/"
+		}
+	},{
+		"title": "https://kimmoir.blog/2021/11/30/my-favourite-books-for-new-managers/",
+		"link": "https://kimmoir.blog/2021/11/30/my-favourite-books-for-new-managers/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://komoroske.com/slime-mold/",
+		"link": "https://komoroske.com/slime-mold/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://larahogan.me/blog/communicating-news-to-team/",
+		"link": "https://larahogan.me/blog/communicating-news-to-team/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://larahogan.me/blog/favorite-manager-meetings/",
+		"link": "https://larahogan.me/blog/favorite-manager-meetings/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://larahogan.me/blog/first-one-on-one-questions/",
+		"link": "https://larahogan.me/blog/first-one-on-one-questions/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://larahogan.me/blog/inclusion-math/",
+		"link": "https://larahogan.me/blog/inclusion-math/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://larahogan.me/blog/questions-for-biceps-core-needs/",
+		"link": "https://larahogan.me/blog/questions-for-biceps-core-needs/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://lethain.com/communities-of-learning/",
+		"link": "https://lethain.com/communities-of-learning/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://lethain.com/first-ninety-days-cto-vpe/",
+		"link": "https://lethain.com/first-ninety-days-cto-vpe/",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "https://lethain.com/how-to-evolve-eng-org/",
+		"link": "https://lethain.com/how-to-evolve-eng-org/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "https://lethain.com/magnitudes-of-exploration/",
+		"link": "https://lethain.com/magnitudes-of-exploration/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/",
+		"link": "https://lethain.com/migration-isnt-failing-due-to-lack-of-staffing/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c",
+		"link": "https://medium.com/@Bar_Code/the-problem-with-tech-leads-a840af1f511c",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://medium.com/@johnpcutler/your-org-problems-are-not-unique-833e36622159",
+		"link": "https://medium.com/@johnpcutler/your-org-problems-are-not-unique-833e36622159",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "https://medium.com/developmentcorporate/why-cross-selling-is-critical-for-saas-revenue-growth-64db916c248f",
+		"link": "https://medium.com/developmentcorporate/why-cross-selling-is-critical-for-saas-revenue-growth-64db916c248f",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf",
+		"link": "https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf",
+		"domain": "",
+		"source": {
+			"title": "an Executive",
+			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "https://medium.com/range/becoming-a-better-manager-with-andrew-sandler-5e4fc96392ce",
+		"link": "https://medium.com/range/becoming-a-better-manager-with-andrew-sandler-5e4fc96392ce",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://medium.com/range/five-questions-a-manager-should-ask-themselves-every-week-c117cb0afa28",
+		"link": "https://medium.com/range/five-questions-a-manager-should-ask-themselves-every-week-c117cb0afa28",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade",
+		"link": "https://medium.com/swlh/one-on-ones-are-my-most-valuable-meetings-heres-how-i-run-them-d9ae7c64dade",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649",
+		"link": "https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140",
+		"link": "https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://mobile.twitter.com/Gankra_/status/1046438955439271936",
+		"link": "https://mobile.twitter.com/Gankra_/status/1046438955439271936",
+		"domain": "",
+		"source": {
+			"title": "Career Ladder",
+			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "https://mobile.twitter.com/ghoshal/status/1018599827976966145",
+		"link": "https://mobile.twitter.com/ghoshal/status/1018599827976966145",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "https://nemethgergely.com/blog/playbook-for-running-sprints",
+		"link": "https://nemethgergely.com/blog/playbook-for-running-sprints",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://nextbigteng.substack.com/p/introducing-enterprise-sales-to-a?s=r",
+		"link": "https://nextbigteng.substack.com/p/introducing-enterprise-sales-to-a?s=r",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://olivinemarketing.substack.com/p/special-edition-how-to-grow-during",
+		"link": "https://olivinemarketing.substack.com/p/special-edition-how-to-grow-during",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://qz.com/964501/how-to-manage-up-with-your-boss",
+		"link": "https://qz.com/964501/how-to-manage-up-with-your-boss",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://resources-for-new-managers.com/",
+		"link": "https://resources-for-new-managers.com/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://review.firstround.com/Rands-on-how-to-make-meetings-suck-less",
+		"link": "https://review.firstround.com/Rands-on-how-to-make-meetings-suck-less",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://review.firstround.com/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings",
+		"link": "https://review.firstround.com/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://review.firstround.com/this-90-day-plan-turns-engineers-into-remarkable-managers",
+		"link": "https://review.firstround.com/this-90-day-plan-turns-engineers-into-remarkable-managers",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://secfi.com/learn/2020",
+		"link": "https://secfi.com/learn/2020",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://shop.beplucky.com/products/the-plucky-1-1-starter-pack",
+		"link": "https://shop.beplucky.com/products/the-plucky-1-1-starter-pack",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee",
+		"link": "https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://techcrunch.com/2022/04/18/yep-startup-prices-are-falling/?guccounter=1",
+		"link": "https://techcrunch.com/2022/04/18/yep-startup-prices-are-falling/?guccounter=1",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://tomtunguz.com/metricflow/",
+		"link": "https://tomtunguz.com/metricflow/",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://tomtunguz.com/why-you-need-to-plan-six-months-ahead/",
+		"link": "https://tomtunguz.com/why-you-need-to-plan-six-months-ahead/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "https://twitter.com/marcprecipice/status/791737937448677376",
+		"link": "https://twitter.com/marcprecipice/status/791737937448677376",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://tynan.com/shapes/",
+		"link": "https://tynan.com/shapes/",
+		"domain": "",
+		"source": {
+			"title": "Performance Reviews",
+			"url": "/management/performance_reviews/"
+		}
+	},{
+		"title": "https://usecandor.com/",
+		"link": "https://usecandor.com/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://www.alexanderfletcher.dev/blog/the-cost-of-doing-it-yourself",
+		"link": "https://www.alexanderfletcher.dev/blog/the-cost-of-doing-it-yourself",
+		"domain": "",
+		"source": {
+			"title": "an Engineer",
+			"url": "/management/on_being/an_engineer/"
+		}
+	},{
+		"title": "https://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html?m=1",
+		"link": "https://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html?m=1",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://www.heinrichhartmann.com/posts/writing/",
+		"link": "https://www.heinrichhartmann.com/posts/writing/",
+		"domain": "",
+		"source": {
+			"title": "an Engineer",
+			"url": "/management/on_being/an_engineer/"
+		}
+	},{
+		"title": "https://www.helpscout.com/blog/one-on-ones/",
+		"link": "https://www.helpscout.com/blog/one-on-ones/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "https://www.jeli.io/",
+		"link": "https://www.jeli.io/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+		"link": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "https://www.lennysnewsletter.com/p/monthly-churn-benchmarks?s=r",
+		"link": "https://www.lennysnewsletter.com/p/monthly-churn-benchmarks?s=r",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "https://www.welcometothejungle.com/en/articles/btc-michael-lopp-interview-management",
+		"link": "https://www.welcometothejungle.com/en/articles/btc-michael-lopp-interview-management",
+		"domain": "",
+		"source": {
+			"title": "On Being",
+			"url": "/management/on_being/"
+		}
+	},{
+		"title": "https://www.youtube-nocookie.com/embed/V5lAnyrr0iI?rel=0&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0",
+		"link": "https://www.youtube-nocookie.com/embed/V5lAnyrr0iI?rel=0&amp;wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "https://www.youtube-nocookie.com/embed/sLn_wuu1LnQ?rel=0&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0",
+		"link": "https://www.youtube-nocookie.com/embed/sLn_wuu1LnQ?rel=0&amp;wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "https://www.youtube-nocookie.com/embed/zKr_TRM5iyc?rel=0&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0",
+		"link": "https://www.youtube-nocookie.com/embed/zKr_TRM5iyc?rel=0&amp;wmode=transparent&amp;rel=0&amp;autohide=1&amp;showinfo=0",
+		"domain": "",
+		"source": {
+			"title": "Interior",
+			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "https://ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee/",
+		"link": "https://ycombinator.com/blog/three-paths-in-the-tech-industry-founder-executive-or-employee/",
+		"domain": "",
+		"source": {
+			"title": "a Manager",
+			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "jdsteinbach/eleventy-plugin-toc",
+		"link": "https://github.com/jdsteinbach/eleventy-plugin-toc",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "lightweight decision log",
+		"link": "https://www.thoughtworks.com/de/radar/techniques/lightweight-architecture-decision-records",
+		"domain": "",
+		"source": {
+			"title": "a Lead",
+			"url": "/management/on_being/a_lead/"
+		}
+	},{
+		"title": "mark.js",
+		"link": "https://markjs.io",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "markdown-it-anchor",
+		"link": "https://github.com/valeriangalliat/markdown-it-anchor",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "markdown-it-imsize",
+		"link": "https://www.npmjs.com/package/@jochenlinnemann/markdown-it-imsize",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "maximevaillancourt/digital-garden-jekyll-template: Start your own digital garden using this Jekyll template 🌱",
+		"link": "https://github.com/maximevaillancourt/digital-garden-jekyll-template",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "minimal",
+		"link": "https://www.minimal.so/",
+		"domain": "",
+		"source": {
+			"title": "Meta",
+			"url": "/meta/"
+		}
+	},{
+		"title": "product strategy",
+		"link": "https://medium.com/swlh/what-is-product-strategy-bd2a4829f36b",
+		"domain": "",
+		"source": {
+			"title": "Product",
+			"url": "/management/product/"
+		}
+	},{
+		"title": "quote myself",
+		"link": "https://twitter.com/rknightuk/status/1426307649365286921",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "remote code reviews",
+		"link": "https://medium.com/bbc-design-engineering/looks-good-to-me-making-code-reviews-better-for-remote-first-teams-95bd92ee4e27",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "sindresorhus/github-markdown-css",
+		"link": "https://github.com/sindresorhus/github-markdown-css",
+		"domain": "",
+		"source": {
+			"title": "Readme",
+			"url": "/meta/readme/"
+		}
+	},{
+		"title": "the government database of intelligence",
+		"link": "https://chuck-nbc.fandom.com/wiki/The_Intersect",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "their wiki",
+		"link": "https://wiki.nikitavoloboev.xyz",
+		"domain": "",
+		"source": {
+			"title": "Introduction",
+			"url": "/"
+		}
+	},{
+		"title": "virtual activities",
+		"link": "https://www.atlassian.com/blog/teamwork/virtual-team-building-activities-remote-teams",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	}]}
