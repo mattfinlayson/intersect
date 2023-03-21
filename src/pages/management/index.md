@@ -134,3 +134,10 @@ If any one of those things is absent - the utility of the dashboard disappears.
  - if it’s not visible then folk don’t notice when Important Thing changes.
  - if it’s not actionable then folk can’t do anything when Important Thing changes.
  - if it’s not used then folk don’t care if Important Thing changes.
+
+
+ # Working Remotely
+
+ - [A Year of Working Remotely](https://mikeindustries.com/blog/archive/2019/08/a-year-of-working-remotely)
+ - [Tips from 16 years of working from home](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/)
+ - [Love in a time of Corona Virus - Tips, Tricks and Best Practices for Working Remotely](https://www.hanselman.com/blog/love-in-a-time-of-corona-virus-tips-tricks-and-best-practices-for-working-remotely)

@@ -51,3 +51,6 @@ https://olivinemarketing.substack.com/p/special-edition-how-to-grow-during
 https://docs.google.com/presentation/d/e/2PACX-1vTUqJyPtn3dQKP8YlmCwiSXgKNyCAe2qfAfkfh2R68rXCC_lhLlzhtJPQQjOCUP-fvPqAozCx1IoUTs/pub?delayms=3000&loop=false&start=false&slide=id.g8ab165be3e_1_46
 
 https://dayzero.substack.com/p/do-you-want-to-build-a-snowflake
+
+
+- [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart)
