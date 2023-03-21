@@ -16,16 +16,33 @@
 		"url": "/ideas_to_revisit/",
 		"title": "Ideas to revisit",
 		"topLevel": true,
-		"text": "title ideas to revisitwhale fall wrt current round of tech layoffs a dose of hopepunkan optimistic sign that our worlds systems are changing for the bettera dutch supermarket chain introduced a slow checkout lane known as the chat checkout kletskassa where customers who arent in a rush can spend a few minutes chatting with a cashier the feature is designed to combat loneliness among seniors and its become so popular that the supermarket chain is planning to build out 200 of these slow lanes across the netherlands from flux review ep 83",
+		"text": "title ideas to revisitwhale fall wrt current round of tech layoffs a dose of hopepunkan optimistic sign that our worlds systems are changing for the bettera dutch supermarket chain introduced a slow checkout lane known as the chat checkout kletskassa where customers who arent in a rush can spend a few minutes chatting with a cashier the feature is designed to combat loneliness among seniors and its become so popular that the supermarket chain is planning to build out 200 of these slow lanes across the netherlands from flux review ep 83 seasonality essential meetings to have with your people as a manager",
 		"parents": [],
 		"filePath": "/src/pages/ideas_to_revisit.md"
 	},{
 		"url": "/management/",
 		"title": "Engineering Management",
 		"topLevel": true,
-		"text": "title engineering management techniquestechnical debt  board meetingslessons from keith rabois essay 4 how to run an effective board meeting and make an effective board deckhow to write investor updates kpis 11 announcement engineering engineering succes gitlab engineering kpis gitlab about kpis engineering kpis remote workvirtual activitiesremote code reviews10 best practices for remote development coordination headwind playbook for running sprintsattention as a software developer habits with seasonalityengineering strategyacute vs chronic issues metrics to gamethis is one of those it depends questions where the answer is entirely dependent on the engineering team and the behavior you are trying to incentivize two things to remember1 engineers will attempt to game all metrics the classic blunder is to measure number of checkins of course of course this means that engineers are going to do more checkins and while this is a measure of productivity for some subset of engineers its totally the wrong measure for a whole slew of others this leads me to the second point2 think long and hard about what behavior you are looking to incentivize another bad behavior metric mean time to resolve mttr while this is a must watch metric its not a metric you should incentivize against because folks are going to panic about getting the service up rather than calmly getting the service up editedi gamified test coverage at etsy because it focused our engineers in the direction that mattered nurture ideaswhat i have learnt is that you can get people to share ideas that they have by asking the right questions questions that i frequently ask when we have a problem at hand are what do you suggest we do what do you think are some ways we can solve it do you think there is a case where the solution will failask these questions and then pause give them time to think more than that let silence encourage the other person to speak  dashboardsfor me dashboards need to be all of visible actionable and used visible if you have to go visit a dashboard its not a dashboard the entire point is that its something that should be in front of you a lot thats not to say visualisations that arent always visible are not useful theyre just not dashboards actionable folk can do something with what theyre telling you going to fast so slow down below expected target for warm leads need to invest more effort in sales etc used theres a culture of actually taking action based on the dashboards the okr board is visited in the retros folk address the bottleneck in testing that the bursty cfd shows etcif any one of those things is absent the utility of the dashboard disappears if its not visible then folk dont notice when important thing changes if its not actionable then folk cant do anything when important thing changes if its not used then folk dont care if important thing changes",
+		"text": "title engineering management techniquestechnical debt  board meetingslessons from keith rabois essay 4 how to run an effective board meeting and make an effective board deckhow to write investor updates kpis 11 announcement engineering engineering succes gitlab engineering kpis gitlab about kpis engineering kpis remote workvirtual activitiesremote code reviews10 best practices for remote development coordination headwind playbook for running sprintsattention as a software developer habits with seasonalityengineering strategyacute vs chronic issues metrics to gamethis is one of those it depends questions where the answer is entirely dependent on the engineering team and the behavior you are trying to incentivize two things to remember1 engineers will attempt to game all metrics the classic blunder is to measure number of checkins of course of course this means that engineers are going to do more checkins and while this is a measure of productivity for some subset of engineers its totally the wrong measure for a whole slew of others this leads me to the second point2 think long and hard about what behavior you are looking to incentivize another bad behavior metric mean time to resolve mttr while this is a must watch metric its not a metric you should incentivize against because folks are going to panic about getting the service up rather than calmly getting the service up editedi gamified test coverage at etsy because it focused our engineers in the direction that mattered nurture ideaswhat i have learnt is that you can get people to share ideas that they have by asking the right questions questions that i frequently ask when we have a problem at hand are what do you suggest we do what do you think are some ways we can solve it do you think there is a case where the solution will failask these questions and then pause give them time to think more than that let silence encourage the other person to speak  dashboardsfor me dashboards need to be all of visible actionable and used visible if you have to go visit a dashboard its not a dashboard the entire point is that its something that should be in front of you a lot thats not to say visualisations that arent always visible are not useful theyre just not dashboards actionable folk can do something with what theyre telling you going to fast so slow down below expected target for warm leads need to invest more effort in sales etc used theres a culture of actually taking action based on the dashboards the okr board is visited in the retros folk address the bottleneck in testing that the bursty cfd shows etcif any one of those things is absent the utility of the dashboard disappears if its not visible then folk dont notice when important thing changes if its not actionable then folk cant do anything when important thing changes if its not used then folk dont care if important thing changes  working remotely a year of working remotely tips from 16 years of working from home love in a time of corona virus tips tricks and best practices for working remotely",
 		"parents": [],
 		"filePath": "/src/pages/management/index.md"
+	},{
+		"url": "/management/1_1/",
+		"title": "1 - 1 Meetings",
+		"topLevel": false,
+		"text": "title 1 1 meetingssometimes people walk in and give me status reports but thats not what i want its really about stepping back from all the urgency and having a strategic and interesting conversation im like hey whats going on whats the hardest thing on your plate right now you do this for a year and people start to depend on that time to share whats going on on a more personal level michael lopp who do you have 11s with i have direct reports ics directors peers my bossmeet face to faceregular time dont cancel but if you do reschedule at the same time so it isnt hanging out there 30 minutesdiscussion points what are 1 or 2 things in our team that could be done more efficiently what is one thing that i or the company could to do support you in achieving your goals i try to share any upleveled info so details from leadership meetings review all hands infobe present i bring a notebook i put the notes online i practice active listening i put my phone awaystart positiveask questions dont just listenask questions about career plans give employees the time and space to think about what they want to express ask direct but open ended questionsexpress gratituderands articlegenerally i dont like prescriptive content he always stereotypes behaviors when you dont know a report it can be easy to fall into thisopening disagree on easy opening i actually like the positive note rather than genericplaybookupdate meeting status update after 15 mins 3 prepared questions perf review share your issues and ask for help  advicethe vent dont problem solve dont redirect dont comfort they want to be heard its done break a rantthe disaster emotional response be quiet and listen a disaster is the end result of poor management your employee believes totally losing their shit is a productive strategy  they believe its the only option left to making anything change really isnt prescriptive in this areato categorize the skiplevel 11 essential meetings to have with your people as a manager how to make your oneonones with employees more productive questions for our first 11 humans 101 deeper questions actively listening what should you ask a new employee in a first oneonone meeting 10 mistakes you should avoid during your one on one meetings the 5 mistakes youre likely making in your oneonone meetings with direct reports 7 ways to prepare for an effective oneonone meeting with your manager oneonones are my most valuable meetings heres how i run them one on one meeting opening lines tracking short term tasks with notebooks how to prepare for a oneonone meeting as a manager",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/1_1/index.md"
+	},{
+		"url": "/management/1_1/quesetions/",
+		"title": "1 - 1 Questions",
+		"topLevel": false,
+		"text": "title 1 1 questionstell me about one coworker that you feel does a particularly good job list three things that motivate you to do your work each daywhat is a mistake you made recently that you learned a lot fromare there any areas of your job that you would like additional training in what is the biggest challenge we will face this yeartell me about your long term career goalswhat part of your job do you wish you didnt have to dowhat are your top 3 super powershow could your working hours be adjusted to better fit your schedulewhen was the last time you got stuck and needed help at work whowhat helped you get unstuckwhat part of your job do you enjoy the most and which part do you enjoy leastwhat is one thing we arent currently doing but could be doing to grow the business what are 1 or 2 things in our team that could be done more efficientlywhat is one thing that i or the company could to do support you in achieving your goalswhen have you had the most fun at work and it doesnt have to be this company it can be past roles toogenerally speaking are you happy being employed herefrom a resources standpoint is there anything that would help you do your job better speaking honestly what is one criticism you would have for meif the need should arise do you feel comfortable filling any roles other than your own in the officehave you been asked to do anything as part of your job that pushed your out of your comfort zonelist the top three things that you feel waste time during your daywithout naming anyone specifically do you know of anyone in the office that is unhappywhat makes for a great day at workif money were no object what would you do every daydo you feel like you receive feedback often enoughwho do you really admirewhat is one thing we could do to make the office more comfortableenjoyablefun or just better without spending much moneyhow well do you feel like you relate to you coworkers do you view them as friends on a scale of 110 what level of loyalty do you feel to the company as a wholename the first two things you would do if you were put in charge for a daywhat goals do you feel like you have accomplished professionally since you began work herein what ways could we improve communications around the officedo you enjoy office functions parties dinners or would you rather be rewarded in some other wayhow wellreceived do you feel your opinions are when you offer them upsometimes an organization gets so focused on the tactical and daytoday that they forget to take time to focus on being creative and fostering innovative ideas what can we do to be more creative and innovativehow often do people ask you for help what do they ask for and how long does it take youwhat are you doing really well that is moving you towards your career goalswhat parts of the business would you like to be more involved in or learn more about are you happy that you left your previous job for this onehow long can you see yourself working herelist 3 things you would like to see when you come to work every dayis this job fitting in well with your life as a wholein your opinion is the staffing level in the office sufficient to keep up with the workload what about the physical arrangement of the office do you like what would you changeif you were to give yourself a rating 110 today what would it belist 2 things that you see being done inefficiently around the office is it worth making them more efficient why or why notif you sat in on an interview for a prospective employee what one question would you ask themdo you think the salary possibilities within this company are enough to satisfy you long termtell me about a recent situation you wish you would have handled differentlywhat is something we could do as a team to improve the companywhat is an example of a little thing that really impressed you recently for example great customer service or a welldesigned productdo you feel the work is evenly distributed across the team is there anyone carrying too much what are some ways we could even things out are you uncomfortable giving any of your peers constructive criticism if so why what is one thing that could be done to make you feel more at home in the office who in the office do you think has knowledge that you could benefit fromdo you see any market opportunities that the company is not taking advantage of what chances would you like to be given to feel more apart of the decisionmaking processin general do you feel you are given enough opportunities to advance your career if not what more could be done to help move you towards your goalswhat is your personal opinion of the long term outlook for this companylist three things that you think the company as a whole should do to be more competitivewhat specific functions would you train a new employee on firstdo you want to be more involved in decision making or do you prefer to enact the decisions of otherspresent me with a situation that you would like to know my response tois there someone in the office that you would like to work more closely withname something you do on a daily basis at work that you feel does not get enough attention or creditdescribe in detail the first hour of your normal work daydescribe in detail the last hour of your normal work daywhat would it take for you to leave this job for a new positionhave you thought of any special projects that you would enjoy working on if given the opportunitywhat three simple things could make your work days more enjoyabledescribe a scenario that has arisen in your job that you dont feel you have the proper tools to handle effectivelyas managers what can we do to give your workday more directionif you were to receive a compensation increase would you prefer higher pay or more benefitson a scale of 110 how much time do you feel is wasted in your day what could we do to be more efficientdo you feel obligated to participate in any office activities that you would rather not be a part ofhow much longer will you be satisfied in your current position before receiving a promotionhow can we change our staff meetings to make them more productivetell me about your greatest accomplishment while employed heredo you feel like your education is being put to its maximum use in your positionare you proud of your work what could we do to make you feel more pride in your jobis this job providing you with a good overall worklife balancetell me your thoughts on my management styledo you feel competitive with your coworkers or is it more of a teamwork environment is there anyone within the company that you look up to and whyis there anyone specifically that you have a hard time working with for any reasondo you feel challenged on a daily basislist three items you would like to have for your desk if budget was not a concernis there any topic that comes up during the day that you feel confused or unclear abouton a scale of 110 rate your overall satisfaction with your employment at this company what is the number one reason you get out of bed in the morning and come to work",
+		"parents": ["Engineering Management"
+			,"1 - 1 Meetings"
+			],
+		"filePath": "/src/pages/management/1_1/quesetions.md"
 	},{
 		"url": "/management/career_ladders/",
 		"title": "Career Ladder",
@@ -43,6 +60,14 @@
 			],
 		"filePath": "/src/pages/management/culture.md"
 	},{
+		"url": "/management/diversity_and_inclusion/",
+		"title": "Diversity and Inclusion",
+		"topLevel": false,
+		"text": "title diversity and inclusion how to measure inclusion quantitatively  free resources and research data for di advocates ebay releases its 2017 diversity and inclusion report building a pinterest for everyone amping up diversity  inclusion at spotify diversity fatigue is real atlassians state of diversity report 2018 a counterintuitive way to increase diversity in tech no more rock stars how to stop abuse in tech communities the al capone theory of sexual harassment does valuing diversity result in worse performance ratings for minority and female leaders building an inclusive code review culture inclusion in code review diversity and inclusion at patreon our latest pay analysis what women and men make at buffer in 2018 on the journey to equal pay heres exactly what men and women earn at buffer what does sponsorship look like heres how to wield empathy and data to build an inclusive team",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/diversity_and_inclusion.md"
+	},{
 		"url": "/management/feedback/",
 		"title": "Feedback &amp; Reviews",
 		"topLevel": false,
@@ -58,6 +83,14 @@
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/hiring.md"
+	},{
+		"url": "/management/meetings/",
+		"title": "Meetings",
+		"topLevel": false,
+		"text": "title meetingsvision eg heres where the team is headedprogress eg heres what everyone is working oninstitutional knowledge eg heres how  why we do things a certain waydecisions eg here are the decisions we made  why how to run inclusive meetings want better meetings meet helmut the rubber chicken revamp a meeting how to make meetings less terrible what we get wrong about meetings  and how to make them worth attending skip level meetings what they are and exactly how to run them my 3 favorite types of manager meetings",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/meetings.md"
 	},{
 		"url": "/management/on_being/",
 		"title": "On Being",
@@ -106,7 +139,7 @@
 		"url": "/management/operating_principals/",
 		"title": "Operating Principals",
 		"topLevel": false,
-		"text": "title operating principals operating principalsoperating calendarnever take money from a vcventure killsokrs that dont suckcustomer success strategy saas metrics churn metrics and traps saas margins stock and equity pricing how to price your saas product saas growth",
+		"text": "title operating principals operating principalsoperating calendarnever take money from a vcventure killsokrs that dont suckcustomer success strategy saas metrics churn metrics and traps saas margins stock and equity pricing how to price your saas product saas growth the saas org chart",
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/operating_principals.md"
@@ -114,7 +147,7 @@
 		"url": "/management/org_chart/",
 		"title": "Org Chart",
 		"topLevel": false,
-		"text": "title org chart",
+		"text": "title org chartsquad small cross functional self organizing team usually less than 8 people sit together and have end to end responsibility for the things they build design commit deploy maintenance operations autonomy means they decide what to build how to build it and how to work together constrains are mission product strategy and short term quarterly goals upsides areautonomyfaster decision makingminimize handoffs and waitingloosely coupled tightly aligned squads focused on product delivery and qualitytribe is a group of squads that are all aligned to a single areachapter is a competency area such as front end development data science or operations chapter lead is also the line manager focused on coaching and mentoring this means you can switch squads without getting a new manager guild informal grouping of cross disciplinary folks focused on a topic could have a mailing list slack group annual conference spotify engineering culture part 1 agile enterprise transition with scrum and kanban 1 youtubewhat are the problems is the structural change going to address team contention reduce handoffs features are not randomly distributed over the feature teams the current knowledge and skills of a team are factored into the decision of which team works on which featuresescalationtriagestaffing and planningreviewsownershipshared servicesshared time chapter vs squadreporting structure horizontal to start who needs to be recognized to categorize renovating teams your companys org chart is more important than you think your org problems are not unique how to evolve an engineering organization why fast learning curves are so important to startups the critically important role of product teams in strategy innovation  org structure full cycle developers at netflix  operate what you build the saas org chart",
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/org_chart.md"
@@ -147,7 +180,7 @@
 		"url": "/management/processes/code_reviews/",
 		"title": "code reviews",
 		"topLevel": false,
-		"text": "title code reviews to categorize reviewing pull requests how to make good code reviews better the powerful ritual of daily design reviews       ",
+		"text": "title code reviews to categorize reviewing pull requests how to make good code reviews better the powerful ritual of daily design reviews building an inclusive code review culture inclusion in code review",
 		"parents": ["Engineering Management"
 			,"processes"
 			],
@@ -214,6 +247,14 @@
 		"parents": ["Engineering Management"
 			],
 		"filePath": "/src/pages/management/product.md"
+	},{
+		"url": "/management/supporting_people/",
+		"title": "Supporting People",
+		"topLevel": false,
+		"text": "title supporting peopleengineers are having trouble working with you if you want specific signals id say people are not taking initiative theres retention issues or people are having trouble working with this person hsu says what that boils down to is that for one reason or another youre not building trust since thats not a realization most people will voice openly to you look for feedback in your performance reviews around communicationto categorize how to manage an employee whos having a personal crisis the 3 things employees really want career community cause how do managers get stuck managing more experienced people mentoring coaching and sponsoring workshop a people leaders guide to active listening core needs biceps be there for them medium irony doesnt scale   ",
+		"parents": ["Engineering Management"
+			],
+		"filePath": "/src/pages/management/supporting_people.md"
 	},{
 		"url": "/meta/alfred-workflow/",
 		"title": "Alfred Workflow",
@@ -303,6 +344,14 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "10 Mistakes You Should Avoid During Your One on One Meetings",
+		"link": "https://fellow.app/blog/meetings/10-mistakes-you-should-avoid-during-one-on-one-meetings/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
 		"title": "10 best practices for remote development",
 		"link": "https://m-cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
 		"domain": "",
@@ -351,12 +400,28 @@
 			"url": "/meta/"
 		}
 	},{
+		"title": "7 ways to prepare for an effective one-on-one meeting with your manager",
+		"link": "https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
 		"title": "A Brief History &amp; Ethos of the Digital Garden",
 		"link": "https://maggieappleton.com/garden-history",
 		"domain": "",
 		"source": {
 			"title": "Meta",
 			"url": "/meta/"
+		}
+	},{
+		"title": "A Counterintuitive Way to Increase Diversity in Tech",
+		"link": "https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "A People Leader’s Guide to Active Listening",
@@ -367,12 +432,28 @@
 			"url": "/management/feedback/"
 		}
 	},{
+		"title": "A Year of Working Remotely",
+		"link": "https://mikeindustries.com/blog/archive/2019/08/a-year-of-working-remotely",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
 		"title": "A framework for balancing and budgeting engineering resourcing",
 		"link": "https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c",
 		"domain": "",
 		"source": {
 			"title": "an Executive",
 			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "ACTIVELY LISTENING",
+		"link": "https://larahogan.me/blog/actively-listening/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
 		}
 	},{
 		"title": "Adding curtains to a non-camper",
@@ -389,6 +470,14 @@
 		"source": {
 			"title": "an Executive",
 			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Amping up Diversity &amp; Inclusion at Spotify",
+		"link": "https://hrblog.spotify.com/2018/02/08/amping-up-diversity-inclusion-at-spotify/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "Are you out of alignment?",
@@ -415,6 +504,14 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "Be there for them",
+		"link": "https://mobile.twitter.com/SparkleOps/status/1015011900508082176",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "Bench seat covers Vanagon &amp; Bay Window Bus Front Seats: PAIR",
 		"link": "https://smallcar.com/vanagon-bus-upgrades/climate-and-comfort/interior-parts",
 		"domain": "",
@@ -429,6 +526,22 @@
 		"source": {
 			"title": "Career Ladder",
 			"url": "/management/career_ladders/"
+		}
+	},{
+		"title": "Building a Pinterest for Everyone",
+		"link": "https://newsroom.pinterest.com/en/post/building-a-pinterest-for-everyone",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
+		"title": "Building an Inclusive Code Review Culture",
+		"link": "https://plaid.com/blog/building-an-inclusive-code-review-culture/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "Burley Motor Sports – Door Handles and Exterior Locks",
@@ -495,6 +608,14 @@
 			"url": "/meta/"
 		}
 	},{
+		"title": "Core Needs: BICEPS",
+		"link": "https://www.palomamedina.com/biceps/",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "Creating a Career Ladder for Engineers",
 		"link": "https://speakerdeck.com/polotek/creating-a-career-ladder-for-engineers",
 		"domain": "",
@@ -549,6 +670,30 @@
 		"source": {
 			"title": "Interior",
 			"url": "/vanagon/interior/"
+		}
+	},{
+		"title": "Diversity and Inclusion at Patreon",
+		"link": "https://blog.patreon.com/diversity-inclusion-belonging-patreon-2019",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
+		"title": "Diversity fatigue is real: Atlassian’s State of Diversity Report 2018",
+		"link": "https://medium.com/smells-like-team-spirit/the-diversity-fatigue-is-real-atlassians-state-of-diversity-report-2018-2655d7eb5e2c",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
+		"title": "Does valuing diversity result in worse performance ratings for minority and female leaders?",
+		"link": "https://www.researchgate.net/publication/270217466_Does_valuing_diversity_result_in_worse_performance_ratings_for_minority_and_female_leaders",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "Don&#39;t get locked up into avoiding lock-in",
@@ -699,8 +844,8 @@
 		"link": "https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html",
 		"domain": "",
 		"source": {
-			"title": "a Manager",
-			"url": "/management/on_being/a_manager/"
+			"title": "Ideas to revisit",
+			"url": "/ideas_to_revisit/"
 		}
 	},{
 		"title": "Etsy – Center Console",
@@ -767,6 +912,14 @@
 			"url": "/meta/readme/"
 		}
 	},{
+		"title": "Full Cycle Developers at Netflix — Operate What You Build",
+		"link": "https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
 		"title": "GitJournal/GitJournal: Mobile first Note Taking integrated with Git",
 		"link": "https://github.com/GitJournal/GitJournal",
 		"domain": "",
@@ -821,6 +974,14 @@
 		"source": {
 			"title": "Exterior",
 			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "Here’s How to Wield Empathy and Data to Build an Inclusive Team",
+		"link": "https://firstround.com/review/heres-how-to-wield-empathy-and-data-to-build-an-inclusive-team/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "How 5 Minutes of Preparation Can Finally Make Standup Meetings Productive",
@@ -887,6 +1048,14 @@
 			"url": "/management/on_being/a_lead/"
 		}
 	},{
+		"title": "How do managers* get stuck?",
+		"link": "http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html?m=1",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "How to Make Good Code Reviews Better",
 		"link": "https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/",
 		"domain": "",
@@ -895,12 +1064,36 @@
 			"url": "/management/processes/code_reviews/"
 		}
 	},{
+		"title": "How to Make Meetings Less Terrible",
+		"link": "https://medium.com/s/freakonomicsradio/how-to-make-meetings-less-terrible-3d977542ab3c",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
+		}
+	},{
+		"title": "How to Manage an Employee Who’s Having a Personal Crisis",
+		"link": "https://hbr.org/2018/07/how-to-manage-an-employee-whos-having-a-personal-crisis",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "How to Price your SaaS product",
 		"link": "https://www.lennyrachitsky.com/p/saas-pricing-strategy",
 		"domain": "",
 		"source": {
 			"title": "Operating Principals",
 			"url": "/management/operating_principals/"
+		}
+	},{
+		"title": "How to Run Inclusive Meetings",
+		"link": "https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
 		}
 	},{
 		"title": "How to Successfully Hand Over Systems",
@@ -917,6 +1110,14 @@
 		"source": {
 			"title": "Performance Reviews",
 			"url": "/management/performance_reviews/"
+		}
+	},{
+		"title": "How to evolve an engineering organization.",
+		"link": "https://lethain.com/how-to-evolve-eng-org/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
 		}
 	},{
 		"title": "How to fail as a new engineering manager",
@@ -943,6 +1144,22 @@
 			"url": "/management/on_being/"
 		}
 	},{
+		"title": "How to measure “inclusion” quantitatively : free resources and research data for D&amp;I advocates",
+		"link": "https://medium.com/awaken-blog/how-to-measure-inclusion-quantitatively-free-resources-and-research-data-for-d-i-advocates-47206a916005",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
+		"title": "How to prepare for a one-on-one meeting as a manager",
+		"link": "https://knowyourteam.com/blog/2018/10/24/how-to-prepare-for-a-one-on-one-meeting-as-a-manager/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
 		"title": "How to write a good software design doc",
 		"link": "https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c",
 		"domain": "",
@@ -967,6 +1184,22 @@
 			"url": "/management/processes/decision_making/"
 		}
 	},{
+		"title": "Humans 101: Deeper Questions",
+		"link": "https://docs.google.com/document/d/1WWkvXQDhYcZoe_0Pcrmi9B19vmGJ8Uhtu4kMshDjkpk/edit",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
+		"title": "Inclusion in Code Review",
+		"link": "https://microsoft.github.io/code-with-engineering-playbook/code-reviews/inclusion-in-code-review/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
 		"title": "Instapaper",
 		"link": "https://instapaper.com",
 		"domain": "",
@@ -981,6 +1214,14 @@
 		"source": {
 			"title": "Recruiting, Interviewing, and Hiring",
 			"url": "/management/hiring/"
+		}
+	},{
+		"title": "Irony Doesn’t Scale",
+		"link": "https://postlight.com/trackchanges/irony-doesnt-scale",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
 		}
 	},{
 		"title": "Jason Scott",
@@ -1047,6 +1288,14 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "Love in a time of Corona Virus - Tips, Tricks and Best Practices for Working Remotely",
+		"link": "https://www.hanselman.com/blog/love-in-a-time-of-corona-virus-tips-tricks-and-best-practices-for-working-remotely",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
 		"title": "MaggieAppleton/digital-gardeners",
 		"link": "https://github.com/MaggieAppleton/digital-gardeners",
 		"domain": "",
@@ -1063,12 +1312,28 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "Medium",
+		"link": "https://medium.com/postmortems",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "Meetings Are Not For You",
 		"link": "https://randsinrepose.com/archives/meetings-are-not-for-you/",
 		"domain": "",
 		"source": {
 			"title": "an Executive",
 			"url": "/management/on_being/an_executive/"
+		}
+	},{
+		"title": "Mentoring, Coaching, and Sponsoring Workshop",
+		"link": "https://speakerdeck.com/lara/mentoring-coaching-and-sponsoring-workshop",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
 		}
 	},{
 		"title": "Merlin Manns&#39;s Wisdom Project (Draft)",
@@ -1135,6 +1400,14 @@
 			"url": "/management/processes/decision_making/"
 		}
 	},{
+		"title": "No more rock stars: how to stop abuse in tech communities",
+		"link": "https://hypatia.ca/2016/06/21/no-more-rock-stars/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
 		"title": "OKRs That Don&#39;t Suck",
 		"link": "https://quietstars.com/lax2020/",
 		"domain": "",
@@ -1167,12 +1440,28 @@
 			"url": "/management/on_being/a_lead/"
 		}
 	},{
+		"title": "On The Journey to Equal Pay: Here’s Exactly What Men and Women Earn at Buffer",
+		"link": "https://buffer.com/resources/equal-pay/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
 		"title": "On Writing Product Roadmaps",
 		"link": "https://goberoi.com/on-writing-product-roadmaps-a4d72f96326c",
 		"domain": "",
 		"source": {
 			"title": "Product",
 			"url": "/management/product/"
+		}
+	},{
+		"title": "One on One Meeting Opening Lines",
+		"link": "https://marcgg.com/blog/2019/11/30/one-on-one-openers/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
 		}
 	},{
 		"title": "Operating Calendar",
@@ -1197,6 +1486,14 @@
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Our Latest Pay Analysis: What Women and Men Make at Buffer in 2018",
+		"link": "https://buffer.com/resources/pay-analysis-2018/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way",
@@ -1261,6 +1558,14 @@
 		"source": {
 			"title": "Readme",
 			"url": "/meta/readme/"
+		}
+	},{
+		"title": "REVAMP A MEETING",
+		"link": "https://wherewithall.com/resources/Revamp-a-Meeting.pdf",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
 		}
 	},{
 		"title": "RUNNING A MANAGER FEEDBACK CYCLE",
@@ -1407,6 +1712,14 @@
 			"url": "/vanagon/interior/"
 		}
 	},{
+		"title": "Skip level meetings: What they are, and exactly how to run them",
+		"link": "https://knowyourteam.com/blog/2019/10/03/skip-level-meetings-what-they-are-and-exactly-how-to-run-them/",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
+		}
+	},{
 		"title": "Softies Icons",
 		"link": "https://robbiepearce.com/softies/",
 		"domain": "",
@@ -1503,12 +1816,36 @@
 			"url": "/management/on_being/"
 		}
 	},{
+		"title": "The 3 Things Employees Really Want: Career, Community, Cause",
+		"link": "https://hbr.org/2018/02/people-want-3-things-from-work-but-most-companies-are-built-around-only-one",
+		"domain": "",
+		"source": {
+			"title": "Supporting People",
+			"url": "/management/supporting_people/"
+		}
+	},{
 		"title": "The 32 best employee engagement questions with the highest response rates",
 		"link": "https://knowyourteam.com/blog/2019/05/18/the-32-best-employee-engagement-questions/",
 		"domain": "",
 		"source": {
 			"title": "Feedback &amp; Reviews",
 			"url": "/management/feedback/"
+		}
+	},{
+		"title": "The 5 mistakes you’re likely making in your one-on-one meetings with direct reports",
+		"link": "https://knowyourteam.com/blog/2019/10/10/the-5-mistakes-youre-making-in-your-one-on-one-meetings-with-direct-reports/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
+		"title": "The Al Capone theory of sexual harassment",
+		"link": "https://blog.valerieaurora.org/2017/07/18/the-al-capone-theory-of-sexual-harassment/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "The Art of the OKR",
@@ -1533,6 +1870,14 @@
 		"source": {
 			"title": "Exterior",
 			"url": "/vanagon/exterior/"
+		}
+	},{
+		"title": "The Critically Important Role of Product Teams in Strategy, Innovation &amp; Org Structure",
+		"link": "https://richardmbanfield.medium.com/the-critically-important-role-of-product-teams-in-strategy-innovation-org-structure-34713fca4e7b",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
 		}
 	},{
 		"title": "The Curious Transition to Becoming an Engineering Manager",
@@ -1581,6 +1926,14 @@
 		"source": {
 			"title": "Culture",
 			"url": "/management/culture/"
+		}
+	},{
+		"title": "The SaaS Org Chart",
+		"link": "https://sacks.substack.com/p/the-saas-org-chart",
+		"domain": "",
+		"source": {
+			"title": "Operating Principals",
+			"url": "/management/operating_principals/"
 		}
 	},{
 		"title": "The Samba – 87 Westy Syncro TDI conversion and restoration~lots of pics",
@@ -1655,6 +2008,14 @@
 			"url": "/management/processes/planning/"
 		}
 	},{
+		"title": "The Skip-level 1-1",
+		"link": "https://jwongworks.com/blog/2019/4/16/the-skip-level-1-1",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
 		"title": "Things I&#39;ve learned transitioning from engineer to engineering manager",
 		"link": "https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/",
 		"domain": "",
@@ -1669,6 +2030,22 @@
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
+		}
+	},{
+		"title": "Tips from 16 years of working from home",
+		"link": "https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/",
+		"domain": "",
+		"source": {
+			"title": "Engineering Management",
+			"url": "/management/"
+		}
+	},{
+		"title": "Tracking Short Term Tasks With Notebooks",
+		"link": "https://marcgg.com/blog/2018/02/18/todo-list-notebook-system/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
 		}
 	},{
 		"title": "Transporter Magazine – Painting the Westfalia Fiberglass Pop Top with Interlux Paint",
@@ -1799,6 +2176,14 @@
 			"url": "/"
 		}
 	},{
+		"title": "Want better meetings? Meet Helmut, the rubber chicken",
+		"link": "https://www.smartcompany.com.au/startupsmart/advice/atlassian-using-rubber-chicken-called-helmut-run-effective-meetings/",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
+		}
+	},{
 		"title": "We Don&#39;t Sell Saddles Here",
 		"link": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
 		"domain": "",
@@ -1847,6 +2232,30 @@
 			"url": "/management/on_being/an_executive/"
 		}
 	},{
+		"title": "What does sponsorship look like?",
+		"link": "https://larahogan.me/blog/what-sponsorship-looks-like/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
+		}
+	},{
+		"title": "What should you ask a new employee in a first one-on-one meeting?",
+		"link": "https://knowyourteam.com/blog/2019/06/20/what-should-you-ask-in-a-new-employee-one-on-one-meeting/",
+		"domain": "",
+		"source": {
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
+		}
+	},{
+		"title": "What we get wrong about meetings – and how to make them worth attending",
+		"link": "http://timharford.com/2019/08/what-we-get-wrong-about-meetings-and-how-to-make-them-worth-attending/",
+		"domain": "",
+		"source": {
+			"title": "Meetings",
+			"url": "/management/meetings/"
+		}
+	},{
 		"title": "What we&#39;ve learned about hiring engineering managers",
 		"link": "https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/",
 		"domain": "",
@@ -1877,6 +2286,30 @@
 		"source": {
 			"title": "Culture",
 			"url": "/management/culture/"
+		}
+	},{
+		"title": "Why Fast Learning Curves are So Important to Startups",
+		"link": "https://tomtunguz.com/why-you-need-to-plan-six-months-ahead/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "Your Org Problems Are Not Unique",
+		"link": "https://medium.com/@johnpcutler/your-org-problems-are-not-unique-833e36622159",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
+		}
+	},{
+		"title": "Your company’s org chart is more important than you think",
+		"link": "https://invertedpassion.com/your-companys-org-chart-is-more-important-than-you-think/",
+		"domain": "",
+		"source": {
+			"title": "Org Chart",
+			"url": "/management/org_chart/"
 		}
 	},{
 		"title": "Zettelkasten",
@@ -1933,6 +2366,14 @@
 		"source": {
 			"title": "Readme",
 			"url": "/meta/readme/"
+		}
+	},{
+		"title": "eBay Releases its 2017 Diversity and Inclusion Report",
+		"link": "https://www.ebayinc.com/stories/news/ebay-releases-its-2017-diversity-and-inclusion-report/",
+		"domain": "",
+		"source": {
+			"title": "Diversity and Inclusion",
+			"url": "/management/diversity_and_inclusion/"
 		}
 	},{
 		"title": "http://www.standalone-sysadmin.com/blog/2014/06/the-difference-between-site-reliability-engineering-system-administration-and-devops/",
@@ -2143,14 +2584,6 @@
 			"url": "/management/"
 		}
 	},{
-		"title": "https://invertedpassion.com/your-companys-org-chart-is-more-important-than-you-think/",
-		"link": "https://invertedpassion.com/your-companys-org-chart-is-more-important-than-you-think/",
-		"domain": "",
-		"source": {
-			"title": "Org Chart",
-			"url": "/management/org_chart/"
-		}
-	},{
 		"title": "https://jvns.ca/blog/brag-documents/",
 		"link": "https://jvns.ca/blog/brag-documents/",
 		"domain": "",
@@ -2231,14 +2664,6 @@
 			"url": "/management/on_being/an_executive/"
 		}
 	},{
-		"title": "https://lethain.com/how-to-evolve-eng-org/",
-		"link": "https://lethain.com/how-to-evolve-eng-org/",
-		"domain": "",
-		"source": {
-			"title": "Org Chart",
-			"url": "/management/org_chart/"
-		}
-	},{
 		"title": "https://lethain.com/magnitudes-of-exploration/",
 		"link": "https://lethain.com/magnitudes-of-exploration/",
 		"domain": "",
@@ -2261,14 +2686,6 @@
 		"source": {
 			"title": "a Manager",
 			"url": "/management/on_being/a_manager/"
-		}
-	},{
-		"title": "https://medium.com/@johnpcutler/your-org-problems-are-not-unique-833e36622159",
-		"link": "https://medium.com/@johnpcutler/your-org-problems-are-not-unique-833e36622159",
-		"domain": "",
-		"source": {
-			"title": "Org Chart",
-			"url": "/management/org_chart/"
 		}
 	},{
 		"title": "https://medium.com/developmentcorporate/why-cross-selling-is-critical-for-saas-revenue-growth-64db916c248f",
@@ -2463,14 +2880,6 @@
 			"url": "/management/operating_principals/"
 		}
 	},{
-		"title": "https://tomtunguz.com/why-you-need-to-plan-six-months-ahead/",
-		"link": "https://tomtunguz.com/why-you-need-to-plan-six-months-ahead/",
-		"domain": "",
-		"source": {
-			"title": "Org Chart",
-			"url": "/management/org_chart/"
-		}
-	},{
 		"title": "https://twitter.com/marcprecipice/status/791737937448677376",
 		"link": "https://twitter.com/marcprecipice/status/791737937448677376",
 		"domain": "",
@@ -2547,8 +2956,8 @@
 		"link": "https://www.welcometothejungle.com/en/articles/btc-michael-lopp-interview-management",
 		"domain": "",
 		"source": {
-			"title": "On Being",
-			"url": "/management/on_being/"
+			"title": "1 - 1 Meetings",
+			"url": "/management/1_1/"
 		}
 	},{
 		"title": "https://www.youtube-nocookie.com/embed/V5lAnyrr0iI?rel=0&amp;amp;wmode=transparent&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0",
