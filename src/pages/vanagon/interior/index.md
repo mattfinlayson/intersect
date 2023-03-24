@@ -22,6 +22,7 @@ title: Interior
 
 ## Curtains
 
+[Westy Curtains](https://t3wiki.org/wiki/Westy_curtains)
 [New Curtains](http://lietco.com/van-life/how-to-make-your-own-westfalia-curtains/)
 [Adding curtains to a non-camper](https://www.vanagonhacks.com/2014/11/adding-curtains-to-a-non-camper-vanagon/)
 [Sewfine Retrofit Curtain Rod Kit](https://sewfineproducts.com/Vanagon-New-Items)

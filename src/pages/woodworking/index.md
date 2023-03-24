@@ -9,3 +9,4 @@ Projects:
 
 Learning:
 - [The Naked Woodworker (Streaming & Download only)](https://lostartpress.com/products/the-naked-woodworker)
+- [The New Yankee Workshop](https://www.youtube.com/@newyankeeworkshop)
