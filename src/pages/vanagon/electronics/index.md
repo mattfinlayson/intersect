@@ -14,3 +14,8 @@ title: Electronics
 # Other
 [Vanagon Instrument Cluster w/ Tach Retrofit](https://oldvolkshome.wetwesties.org/late_van_cluster_install.pdf)
 [Vanagon Aux Battery Wiring Diagram#](https://wiringall.com/vanagon-auxiliary-battery-wiring-diagram.html)
+
+# Solar Install
+[Vanagon Solar Install *Nice Features*](https://www.youtube.com/watch?feature=share&v=Uc5PEsQ6Vzg) - I like this install of the solar panel, I don't like how he runs the cabels into the van. 
+[Vanagon 100 watt Solar Panel install](https://www.youtube.com/watch?v=feYa79Dyk-U) - Same install, don't drill the fiberglass, but I like how he ran the wires.
+[Hidden wire to Westy fwd cargo area via driver pillar](https://www.thesamba.com/vw/forum/viewtopic.php?t=735463)

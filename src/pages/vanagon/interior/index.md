@@ -7,6 +7,7 @@ title: Interior
 [The Samba – Newer, larger kitchen drawer in older van?](https://www.thesamba.com/vw/forum/viewtopic.php?start=0&t=697589)
 [Dimensions](https://www.thesamba.com/vw/forum/viewtopic.php?p=6964149#6964149)
 [More Dimensions](https://shufti.files.wordpress.com/2009/11/westy1.pdf)
+[TF49 TruckFridge Question - DC or AC-DC?](https://www.thesamba.com/vw/forum/viewtopic.php?t=697761)
 
 ## Consoles
 [Etsy – Center Console](https://www.etsy.com/listing/926754413/center-console-for-vw-vanagon-t3)

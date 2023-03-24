@@ -187,3 +187,33 @@ https://kimmoir.blog/2021/11/30/my-favourite-books-for-new-managers/
 
 - [TEAM LEADER VENN DIAGRAM](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [UPDATED: WORK AT DIFFERENT MANAGEMENT LEVELS](https://larahogan.me/blog/manager-levels-redux/)
+
+
+# metrics to track
+
+## Added value
+
+- Number of releases - This would be seen as value for other teams or stakeholders. If we only deliver once per year something must be wrong. Sometimes we do have larger releases, but from my experience having more releases is better
+- Number of developers - Well, if we add more developers we should have more output right? We know that it’s not that simple. Tracking this allows us to see the impact of adding or removing people, mostly on the other KPIs
+- Developer delta - It’s different having a team of 8 developers during an year that didn’t change, than to always have 8 developers but swapping people. How much the team changes would be tracked here
+- Number of bugs in production - Less bugs more added value. Naturally there’s the question of bug severity. Is it that bad to have tons of low priority bugs when we’re focusing on adding value? That’s always a heated debate. This metric will help teams following a zero bug policy
+
+## Pull requests
+- Time to close a PR - There are many things that affect the merging of a PR. I’d say that being able to close a PR fast is a good sign. When a developer is waiting for a PR there may be idleness or ping pong or waiting for dependencies
+- Time from PR closed to production - When we do merge a PR, how much time does it take to reach production? This can be very fast if we auto deploy on merge, but may be slower if we need a formal QA process.
+- Number of comments per PR - This one also affects the time to close a PR. But may add more information to it. If we have lots of comments in average on a PR that is an indicator that something may be wrong. We may have an alignment issue on the team that generates discussions or lots of corrections. This can add to the submitter’s frustration. On the other hand if we have close to zero comments per PR, it may hint that we’re not having PRs deeply reviewed
+
+### Kind of related:
+
+- Pipeline build time - This affects the time to close a PR. Ideally we’d have our feedback instantaneously. If we have a pipeline that takes hours it will impact our productivity. Also interesting would be to see how the build time increases over time, and the impact of adding more developers, more tests, more features, etc
+- Number of times master build fails - Having master always green brings confidence to the team and to the process. If on the other hand we have lots of failures, for example because of flaky tests, that will impact our trust and performance
+
+
+## Infrastructure
+
+- Average downtime - If the application is down, we’re not adding value. We should track this and try to understand what impacts it
+- Number of production incidents - How many times we have problems in production that require someone to assess and fix them right away
+- Running costs - This could be a whole section by itself, and split in categories like development tooling (build minutes, productivity tools) and environment costs (AWS, services that check for uptime, etc)
+- Cost per user - This would be the running cost by the total users/accounts on the system. With this we could forecast what would be our cost if the other teams achieve their target KPIs for new users/accounts
+- Sizing - Related to the previous. How much processing power do we need to support the current usage? How much more will we need to support the usage one year from now?
+- Performance benchmarks - How much does our system currently endure? For example for a given setup how many transactions per second can we handle? This may harder to track on a KPI

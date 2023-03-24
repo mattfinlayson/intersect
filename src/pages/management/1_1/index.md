@@ -86,3 +86,4 @@ To Categorize:
 - [One on One Meeting Opening Lines](https://marcgg.com/blog/2019/11/30/one-on-one-openers/)
 - [Tracking Short Term Tasks With Notebooks](https://marcgg.com/blog/2018/02/18/todo-list-notebook-system/)
 - [How to prepare for a one-on-one meeting as a manager](https://knowyourteam.com/blog/2018/10/24/how-to-prepare-for-a-one-on-one-meeting-as-a-manager/)
+- [Transform your 1:1 meetings into a source of insight](https://medium.com/@simondelana/transform-your-1-1-meetings-into-a-source-of-insight-f0f9426ef797)

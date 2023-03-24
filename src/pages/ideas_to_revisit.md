@@ -16,3 +16,14 @@ A Dutch supermarket chain introduced a slow checkout lane, known as the “chat 
 
 # Seasonality
 - [Essential Meetings to Have With Your People as a Manager](https://ajahne.github.io/blog/leadership/2019/07/24/essential-meetings-to-have-with-your-people-as-a-manager.html)
+
+
+# Tools to cehck out
+
+- [Text to Speech](https://speechify.com/)
+
+# Things to build?
+
+## Repobeats for Bitbucket
+
+[Give your GitHub repository README.md some insightful eye-candy](https://dev.to/seiflotfy/give-your-github-repository-readmemd-some-insightful-eye-candy-i37)

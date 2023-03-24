@@ -79,5 +79,5 @@ https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf
 - [What do executives do, anyway?](https://apenwarr.ca/log/20190926)
 - [Lessons from Keith Rabois Essay 3: How to be an Effective Executive](https://delian.io/lessons-3)
 - [Your first 90 days as CTO or VP Engineering.](https://lethain.com/first-ninety-days-cto-vpe/)
-- []()
+- [Infrastructure Business Review](https://docs.google.com/document/d/13rWR6dHKoAXZc-F5I152ZW8jeZdFdRCBvdHoBnsKYfs/edit)
 - []()
