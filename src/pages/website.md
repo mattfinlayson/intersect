@@ -10,5 +10,6 @@ bits and piece of running my site.
     - [Anders Noren's Themes](https://andersnoren.se/teman/) - I like these
     - [A Self-Hosted WordPress Blog with Micro.Blog](https://phoneboy.com/2018/01/13/a-self-hosted-wordpress-blog-with-micro-blog)
     - [Configuring WordPress for Micro.blog](https://www.chrisreedtech.com/configuring-wordpress-micro-blog/)
+    - [Configuring Micro.blog and WordPress to Work Together](https://infinitediaries.net/configuring-micro-blog-and-wordpress-to-work-together/)
 - [Neospring](https://neospring.brandur.org/)
 - [archivebox](https://archivebox.io/)
