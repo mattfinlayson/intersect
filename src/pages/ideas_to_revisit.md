@@ -36,6 +36,7 @@ A Dutch supermarket chain introduced a slow checkout lane, known as the “chat 
 - [Here's how I made a simple Chrome Extension to close all open tabs](https://dev.to/midhunz/how-to-create-a-simple-chrome-extension-ijk)
 - [Plasmo](https://www.plasmo.com/)
 - [SKWare Icons](https://danylpo.com/skware/)
+- [Let's build a Chrome extension that steals everything](https://mattfrisbie.substack.com/p/spy-chrome-extension)
 
 # Things to build?
 
