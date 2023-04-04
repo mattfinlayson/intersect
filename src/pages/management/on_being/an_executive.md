@@ -50,7 +50,34 @@ To have traction, the framework can’t appear at annual planning and disappear 
 
 - Matt Eccleston - [A framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
 
+# Strategic Planning
 
+As a functional leader you’ll be expected to set your own direction with little direction from others. 
+ - When things in your area are going poorly, you’ll be swamped with more direction and input than you can readily absorb 
+ - when things are going well, you’ll often be responsible for supplying your own direction and that for your team.
+
+If you don’t supply it yourself, you’ll start to feel the pull of irrelevance: maybe no one really cares what we do? 
+
+Cast a net:
+ - Ask folks at your company what their previous companies did well
+ - Draw ideas out from your team
+ - Read technical papers
+ - Meet with peers and ask them what they are doing
+ - 
+
+Make time to plan:
+* Take care of your own needs
+* Make time by choosing not to do some work. Be clear about this choice.
+* Block time to do planning, plan for energy, turn off notifications, work offline.
+
+Prompts:
+ - Wish list. Make a list of things you’d like to be true in 6, 12, or 24 months. These could be aspects of the team’s process, quality targets, or product capabilities. Then pick one and work backwards to uncover how you might achieve such an outcome.
+ - Worry list. Imagine that you quit big picture thinking and make no strategic plans. What are the biggest problems you’ll face in a year?
+ - Back to the future. Look back and consider being able to change past decisions and directions. What if we didn’t build X? What do we wish we had done differently? What would you do if you were starting fresh? These can be good clues to explore for shaping the future.
+ - 10x. Apply order of magnitude changes as a thinking tool to identify interesting leverage points. What if the service was 10x faster or 10x more efficient? What if we had 10x the traffic, data, or users?
+
+- [Steps to Strategy](https://sethfalcon.substack.com/p/steps-to-strategy)
+- [Setting organizational direction.](https://lethain.com/setting-organizational-direction/)
 
 To Categorize:
 - [Engineering strategy.](https://lethain.com/engineering-strategy/)
