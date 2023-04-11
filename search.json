@@ -319,9 +319,9 @@
 		"filePath": "/src/pages/projects.md"
 	},{
 		"url": "/things/",
-		"title": "things",
+		"title": "Rampant Capitalism",
 		"topLevel": true,
-		"text": "title things wish listrather than just buying every damn thing i see on the internet i started putting things i want to get but am not sure about in a note on my phone if its sat for a while im moving it here suitable storage national park map tracker nuphy bluetooth mechanical keyboard great purchased gr1 boar hair brush disappointing purchases",
+		"text": "title rampant capitalism wish listrather than just buying every damn thing i see on the internet i started putting things i want to get but am not sure about in a note on my phone if its sat for a while im moving it here suitable storage national park map tracker nuphy bluetooth mechanical keyboard flush desk charging for iphone great purchased gr1 boar hair brush disappointing purchases",
 		"parents": [],
 		"filePath": "/src/pages/things.md"
 	},{
@@ -1019,6 +1019,14 @@
 			"url": "/management/on_being/a_manager/"
 		}
 	},{
+		"title": "Flush Desk Charging for iPhone",
+		"link": "https://www.etsy.com/listing/922288165/ms0-magsafe-flush-mount-insert-various",
+		"domain": "",
+		"source": {
+			"title": "Rampant Capitalism",
+			"url": "/things/"
+		}
+	},{
 		"title": "Font Awesome GitHub icon",
 		"link": "https://fontawesome.com/v5.15/icons/github",
 		"domain": "",
@@ -1591,7 +1599,7 @@
 		"link": "https://www.etsy.com/listing/1210940154/large-custom-national-park-map-tracker",
 		"domain": "",
 		"source": {
-			"title": "things",
+			"title": "Rampant Capitalism",
 			"url": "/things/"
 		}
 	},{
@@ -1647,7 +1655,7 @@
 		"link": "https://nuphy.com/products/air75",
 		"domain": "",
 		"source": {
-			"title": "things",
+			"title": "Rampant Capitalism",
 			"url": "/things/"
 		}
 	},{
@@ -1943,7 +1951,7 @@
 		"link": "https://fieldnotesbrand.com/products/archival-wooden-box",
 		"domain": "",
 		"source": {
-			"title": "things",
+			"title": "Rampant Capitalism",
 			"url": "/things/"
 		}
 	},{
