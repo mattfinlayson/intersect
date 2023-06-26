@@ -2,6 +2,8 @@
 title: Interior
 ---
 
+## Dash
+[Instrument Cluster Clamps](https://www.vanavation.com/instrument-cluster-clamps.html)
 
 ## Cabinets
 [The Samba – Newer, larger kitchen drawer in older van?](https://www.thesamba.com/vw/forum/viewtopic.php?start=0&t=697589)

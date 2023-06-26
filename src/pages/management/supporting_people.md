@@ -18,6 +18,18 @@ First Discussion Agenda:
 - [Getting Started in a Mentorship](https://medium.com/@jenniferdary/getting-started-in-a-mentorship-88b628b52ab0)
 
 
+## Scaffolding
+
+> If you’re a New Yorker, you may be forgiven for thinking scaffolding is meant to be permanent. Across the five boroughs, scaffolding often goes up and then stays there, with nothing happening but the slow, steady decay of a building’s facade. Elsewhere, most people will recognize scaffolding for what it’s intended to be: a temporary structure designed to permit access, support, and repair. Scaffolds create safe conditions under which some change can be attended to, without anyone on the street below needing to watch out for falling debris.
+
+A good scaffold has a few characteristics: 
+ - It creates a condition of safety, both physical and psychological, such that people can be confident that a misstep won’t bring harm upon themselves or others. 
+ - It provides access to areas that might, under normal conditions, be difficult to reach. 
+ - It creates both space and time to undertake some change, whether that change is repair and restoration, or a transformation into something new.
+
+- [Scaffolding Change](https://everythingchanges.us/blog/scaffolding-change/)
+
+
 To Categorize:
 
 - [How to Manage an Employee Who’s Having a Personal Crisis](https://hbr.org/2018/07/how-to-manage-an-employee-whos-having-a-personal-crisis)
