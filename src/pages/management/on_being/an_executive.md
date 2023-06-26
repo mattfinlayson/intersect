@@ -79,6 +79,14 @@ Prompts:
 - [Steps to Strategy](https://sethfalcon.substack.com/p/steps-to-strategy)
 - [Setting organizational direction.](https://lethain.com/setting-organizational-direction/)
 
+# Layoffs
+
+[How do you handle layoffs on a large scale?](https://medium.com/@eyalmrejen/how-do-you-handle-layoffs-on-a-large-scale-9f513f496659) 
+ - this covers critera for selecting who to lay off
+ - how to announce to the organizaiton
+ - how to think about retention
+ - there is also a bit of empathy for having to do the job 
+
 To Categorize:
 - [Engineering strategy.](https://lethain.com/engineering-strategy/)
 - [THE FOUR FUNCTIONS OF AN EXECUTIVE TEAM](https://www.palomamedina.com/blog/execteamfunctions)
